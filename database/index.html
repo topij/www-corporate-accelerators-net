@@ -1,0 +1,42 @@
+---
+layout: default
+title: Corporate Accelerator Database
+---
+
+<div class="row">
+  <div class="column">
+    <h3 class="subheader">List of all corporate programs</h3>
+  </div>
+</div>
+
+<div class="row">
+  <div class="medium-12 columns">
+    <table id="ca_database" role="grid">
+      <thead>
+        <tr>
+          <th>Company</th>
+          <th>Accelerator</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for accelerator in site.data.Accelerators %}
+          <tr>
+            <td>{{ accelerator.Company }}</td>
+            <td><a href="{{ accelerator.URL }}">{{ accelerator.Name }}</td>
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<script src="/noita/js/vendor/datatables.js"></script>
+<link rel="stylesheet" href="/noita/js/vendor/datatables.css">
+<script>
+$(document).ready( function () {
+    $('#ca_database').DataTable({
+      paging: false,
+      order: [[ 0, 'asc' ]]
+    });
+} );
+</script>

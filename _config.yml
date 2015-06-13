@@ -10,6 +10,9 @@ exclude:
   - vendor/
   - vnu/
   - vnu.zip
+include:
+  - .static
+  - .env
 layouts: ./_noita
 sass:
   sass_dir: noita/_scss
@@ -24,7 +27,7 @@ compress_html:
 # theme
 noita:
   name: Corporate Accelerator Database
-  description: Jekyll theme built with Foundation
+  description: A database of worldwide Corporate Accelerator programs
   author:
     name: Florian Heinemann
     url: https://corporate-accelerators.net/
@@ -34,12 +37,10 @@ noita:
   topbar:
     toggle: Menu
     right:
-      - name: About
-        url: /about/
-      - name: Guide
-        url: /guide/
-      - name: Blog
-        url: /blog/
-      - name: Repository
-        url: https://github.com/penibelst/jekyll-noita
+      - name: Database
+        url: /database/
+      - name: Background
+        url: /background/
+      - name: Update data
+        url: https://github.com/florianheinemann/www-corporate-accelerators-net
         class: small button
