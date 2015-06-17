@@ -173,9 +173,31 @@ pre {
 /**
  * Wrapper for full-width content
  */
+.almost-full-wrapper {
+    max-width: -webkit-calc(1500px - (#{$spacing-unit} * 2));
+    max-width:         calc(1500px - (#{$spacing-unit} * 2));
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: $spacing-unit;
+    padding-left: $spacing-unit;
+    @extend %clearfix;
+
+    @include media-query($on-laptop) {
+        max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
+        max-width:         calc(#{$content-width} - (#{$spacing-unit}));
+        padding-right: $spacing-unit / 2;
+        padding-left: $spacing-unit / 2;
+    }
+}
+
+/**
+ * Wrapper for full-width content
+ */
 .full-wrapper {
-    /*max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));*/
-    /*max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));*/
+/**
+    max-width: -webkit-calc(1500px - (#{$spacing-unit} * 2));
+    max-width:         calc(1500px - (#{$spacing-unit} * 2)); 
+*/
     margin-right: auto;
     margin-left: auto;
     padding-right: $spacing-unit;
@@ -235,6 +257,10 @@ pre {
     margin-bottom: 25px;
 }
 
+.dataTables_info {
+    margin-bottom: 25px;
+}
+
 .accelerator-data tr td:nth-of-type(1) {
     font-weight: bold;
     background-color: #F9F9F9;
@@ -244,3 +270,27 @@ pre {
 .accelerator-data td {
     padding: 8px 10px;
 }
+
+.bigbtn {
+  -webkit-box-shadow: 0px 1px 2px #666666;
+  -moz-box-shadow: 0px 1px 2px #666666;
+  box-shadow: 0px 1px 2px #666666;
+  color: $text-color;
+  font-size: 20px;
+  background: $brand-color;
+  padding: 10px 30px 10px 30px;
+  text-decoration: none;
+}
+
+.bigbtn:hover {
+  background: lighten($brand-color, 15%);
+  text-decoration: none;
+  color: $text-color;
+}
+
+.bigbtn:visited {
+  background: $brand-color;
+  text-decoration: none;
+  color: $text-color;
+}
+
