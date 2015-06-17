@@ -3,7 +3,7 @@ layout: page
 notopnav: true
 ---
 <p>
-{{ page.accelerator['Company'] }}, headquartered in {{ page.accelerator['Company HQ'] }}, launched {% if page.accelerator['Started'] != "" %}in {{ page.accelerator['Started']}}{% endif %} a Corporate Accelerator called {{ page.accelerator['Name'] }}. 
+{{ page.accelerator['Company'] }}, headquartered in {{ page.accelerator['Company HQ'] }}, launched a Corporate Accelerator called {{ page.accelerator['Name'] }}{% if page.accelerator['Started'] != "" %} in {{ page.accelerator['Started']}}{% endif %}. 
 
 {% if page.accelerator['Goal'] != "" %}They describe their goal as "{{ page.accelerator['Goal']}}"{% endif %}
 </p>
@@ -15,6 +15,10 @@ Website: <a href="{{ page.accelerator['URL'] }}">{{ page.accelerator['Name'] }}<
 <h4>About the program</h4>
 <table role="grid" class="accelerator-data">
   <tbody>
+      <tr>
+        <td>Locations</td>
+        <td>{{ page.accelerator['Accelerator locations'] | noinfo }}</td>
+      </tr>
       <tr>
         <td>Funding</td>
         <td>{{ page.accelerator['Funding'] | noinfo }}</td>
@@ -51,6 +55,10 @@ Website: <a href="{{ page.accelerator['URL'] }}">{{ page.accelerator['Name'] }}<
         <td>Launched</td>
         <td>{{ page.accelerator['Started'] | noinfo }}</td>
       </tr>
+      <tr>
+        <td>Focus areas</td>
+        <td>{{ page.accelerator['Areas of Interest'] | noinfo }}</td>
+      </tr>
   </tbody>
 </table>
 
@@ -76,7 +84,7 @@ Website: <a href="{{ page.accelerator['URL'] }}">{{ page.accelerator['Name'] }}<
       </tr>
       {% if page.accelerator['Index'] != "" and page.accelerator['Index'] != "No" %}
       <tr>
-        <td>Listed on...</td>
+        <td>Listed on</td>
         <td>{{ page.accelerator['Index'] }}</td>
       </tr>
       {% endif %}
@@ -86,6 +94,15 @@ Website: <a href="{{ page.accelerator['URL'] }}">{{ page.accelerator['Name'] }}<
 {% if page.accelerator['Comment'] != "" %}
 <h4>Further comments</h4>
 <p>{{ page.accelerator['Comment'] }}</p>
+{% endif %}
+
+{% if page.accelerator['Sources'].size > 0 %}
+<h4>Additional sources</h4>
+<ul>
+	{% for source in page.accelerator['Sources'] %}
+	<li><a href="{{source}}">{{source}}</a></li>
+    {% endfor %}
+</ul>
 {% endif %}
 
 <p>This page has been created {{ page.accelerator['Created'] }} and last modified on {{ page.accelerator['Modified'] }}.</p>
