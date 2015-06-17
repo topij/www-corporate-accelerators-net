@@ -1,46 +1,15 @@
-# build
+# Site settings
+title: Corporate Accelerator DB
+subtitle: the best overview of all corporate acceleration programs
+email: hello@florianheinemann.com
+description: > # this means to ignore newlines until "baseurl:"
+  A regularly maintained list of Corporate Acceleration 
+  programs across the world
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://www.corporate-accelerators.net" # the base hostname & protocol for your site
+twitter_username: thesumofall
+github_username:  florianheinemann
+
+# Build settings
 markdown: kramdown
-permalink: /blog/:year/:title/
-exclude:
-  - CNAME
-  - Gemfile
-  - LICENSE
-  - Rakefile
-  - README.md
-  - vendor/
-  - vnu/
-  - vnu.zip
-include:
-  - .static
-  - .env
-layouts: ./_noita
-sass:
-  sass_dir: noita/_scss
-  style: compressed
-# compress layout in _noita/compress.html
-compress_html:
-  clippings: all
-  endings: all
-  comments: ["<!--", "-->"]
-  ignore:
-    envs: [travis]
-# theme
-noita:
-  name: Corporate Accelerator Database
-  description: A database of worldwide Corporate Accelerator programs
-  author:
-    name: Florian Heinemann
-    url: https://corporate-accelerators.net/
-  lang: en
-  favicons:
-    - /assets/2014/04/21/favicon-152.png
-  topbar:
-    toggle: Menu
-    right:
-      - name: Database
-        url: /database/
-      - name: Background
-        url: /background/
-      - name: Update data
-        url: https://github.com/florianheinemann/www-corporate-accelerators-net
-        class: small button
+highlighter: rouge

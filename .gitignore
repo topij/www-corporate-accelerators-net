@@ -1,4 +1,3 @@
-_site/
+_site
 Gemfile.lock
-.sass-cache/
-vnu*
+.sass-cache
