@@ -1,10 +1,97 @@
 ---
-layout: default
+layout: page
 notopnav: true
 ---
+<p>
+{{ page.accelerator['Company'] }}, headquartered in {{ page.accelerator['Company HQ'] }}, launched {% if page.accelerator['Started'] != "" %}in {{ page.accelerator['Started']}}{% endif %} a Corporate Accelerator called {{ page.accelerator['Name'] }}. 
 
-<div class="row">
-  <div class="medium-8 columns">
-    {{ page.accelerator['Name'] }}
-  </div>
-</div>
+{% if page.accelerator['Goal'] != "" %}They describe their goal as "{{ page.accelerator['Goal']}}"{% endif %}
+</p>
+
+<p>
+Website: <a href="{{ page.accelerator['URL'] }}">{{ page.accelerator['Name'] }}</a>
+</p>
+
+<h4>About the program</h4>
+<table role="grid" class="accelerator-data">
+  <tbody>
+      <tr>
+        <td>Funding</td>
+        <td>{{ page.accelerator['Funding'] | noinfo }}</td>
+      </tr>
+      <tr>
+        <td>Equity</td>
+        <td>{{ page.accelerator['Equity'] | noinfo }}</td>
+      </tr>
+      <tr>
+        <td>Term</td>
+        <td>{{ page.accelerator['Term'] | noinfo }}</td>
+      </tr>
+      <tr>
+        <td>Cohort-based</td>
+        <td>{{ page.accelerator['Cohort-based'] | noinfo }}</td>
+      </tr>
+      <tr>
+        <td>Pitch day</td>
+        <td>{{ page.accelerator['Pitch day'] | noinfo }}</td>
+      </tr>
+      <tr>
+        <td>Office space</td>
+        <td>{{ page.accelerator['Office space'] | noinfo }}</td>
+      </tr>
+      <tr>
+        <td>Powered by</td>
+        <td>{{ page.accelerator['Partner'] | noinfo }}</td>
+      </tr>
+      <tr>
+        <td>Support offered</td>
+        <td>{{ page.accelerator['Education'] | noinfo }}</td>
+      </tr>
+      <tr>
+        <td>Launched</td>
+        <td>{{ page.accelerator['Started'] | noinfo }}</td>
+      </tr>
+  </tbody>
+</table>
+
+
+<h4>About the company</h4>
+<table role="grid" class="accelerator-data">
+  <tbody>
+      <tr>
+        <td>Name</td>
+        <td>{{ page.accelerator['Company'] | noinfo }}</td>
+      </tr>
+      <tr>
+        <td>Headquarter</td>
+        <td>{{ page.accelerator['Company HQ'] | noinfo }}</td>
+      </tr>
+      <tr>
+        <td>Industry</td>
+        <td>{{ page.accelerator['Sector description'] | noinfo }}</td>
+      </tr>
+      <tr>
+        <td>NAICS</td>
+        <td>{{ page.accelerator['NAICS'] | noinfo }}</td>
+      </tr>
+      {% if page.accelerator['Index'] != "" and page.accelerator['Index'] != "No" %}
+      <tr>
+        <td>Listed on...</td>
+        <td>{{ page.accelerator['Index'] }}</td>
+      </tr>
+      {% endif %}
+  </tbody>
+</table>
+
+{% if page.accelerator['Comment'] != "" %}
+<h4>Further comments</h4>
+<p>{{ page.accelerator['Comment'] }}</p>
+{% endif %}
+
+<p>This page has been created {{ page.accelerator['Created'] }} and last modified on {{ page.accelerator['Modified'] }}.</p>
+<p><a href="/database/index.html">Back to the full list</a>
+</p>
+
+
+
+

@@ -86,6 +86,15 @@
     }
 }
 
+/**
+ * Hide unecessary columns if there is no space
+ */
+@include media-query($on-mobile) {
+    .tab-hide-if-no-space {
+        display: none;
+    }
+}
+
 
 
 /**

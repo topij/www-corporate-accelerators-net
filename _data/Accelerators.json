@@ -24,8 +24,10 @@
       "Accelerator locations":"Hong Kong",
       "Started":2014,
       "URL":"http://aia-accelerator.com/#",
-      "Sources":"",
-      "Comment":""
+      "Sources":[],
+      "Comment":"",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"Airbus Group SE",
@@ -37,7 +39,7 @@
       "Sector description":"Manufacturing",
       "Self-description":"Accelerator",
       "Term":"6 months",
-      "Cohort-based":"N/I",
+      "Cohort-based":"",
       "Funding":"No",
       "Equity":"No",
       "Education":"Yes, coaches, experts, and mentors, prototyping, market access, ",
@@ -52,8 +54,10 @@
       "Accelerator locations":"Toulouse, France / Hamburg, Germany / Bangalore, India",
       "Started":2015,
       "URL":"http://www.airbus.com/innovation/bizlab/",
-      "Sources":"http://www.eturbonews.com/56303/airbus-launches-its-global-aerospace-business-accelerator-bizlab",
-      "Comment":""
+      "Sources":["http://www.eturbonews.com/56303/airbus-launches-its-global-aerospace-business-accelerator-bizlab"],
+      "Comment":"",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"Allianz SE",
@@ -64,23 +68,23 @@
       "NAICS Sector":52,
       "Sector description":"Finance and Insurance",
       "Self-description":"Accelerator",
-      "Term":"N/I",
-      "Cohort-based":"N/I",
-      "Funding":"N/I",
-      "Equity":"N/I",
-      "Education":"N/I",
-      "Office space":"N/I",
-      "Pitch day":"N/I",
+      "Term":"",
+      "Cohort-based":"",
+      "Funding":"",
+      "Equity":"",
+      "Education":"",
+      "Office space":"",
+      "Pitch day":"",
       "Cohort info":"No",
       "CVC data available":"Yes",
       "Goal":"The Allianz Digital Accelerator builds new business models for Allianz and accelerates their execution and implementation within Allianz to ultimately better serve and build value for our customers.",
       "Areas of Interest":"",
-      "Partner":"N/I",
+      "Partner":"",
       "Company HQ":"Germany",
       "Accelerator locations":"Munich, Germany",
       "Started":2013,
       "URL":"http://www.digital-accelerator.com",
-      "Sources":"http://www.gruenderszene.de/allgemein/digital-accelerator-allianz",
+      "Sources":["http://www.gruenderszene.de/allgemein/digital-accelerator-allianz"],
       "Comment":"Still alive? Is it really an accelerator?"
    },
    {
@@ -97,8 +101,8 @@
       "Funding":"$20K",
       "Equity":"No",
       "Education":"Yes, mentors",
-      "Office space":"N/I",
-      "Pitch day":"N/I",
+      "Office space":"",
+      "Pitch day":"",
       "Cohort info":"No",
       "CVC data available":"TBD",
       "Goal":"Budweiser Dream Brewery is a new platform to inspire and empower tech innovators to come up with and realize their creative ideas around beer consumption/shopping experience/responsible drinking.",
@@ -108,7 +112,7 @@
       "Accelerator locations":"Shanghai, China",
       "Started":2015,
       "URL":"https://www.f6s.com/budweiserdreambrewery/about",
-      "Sources":"",
+      "Sources":[],
       "Comment":"No dedicated homepage"
    },
    {
@@ -136,8 +140,10 @@
       "Accelerator locations":"Remote + San Francisco, USA",
       "Started":2015,
       "URL":"http://about.att.com/content/csr/home/people/at-t-aspire/mobilizing-learning/accelerator.html",
-      "Sources":"http://www.f6s.com/programs?filter=1&types[1]=accelerator&amount_default=0;5&fp_amount=0;5&equity_default=0;50&fp_equity=0;50",
-      "Comment":""
+      "Sources":["http://www.f6s.com/programs?filter=1&types[1]=accelerator&amount_default=0;5&fp_amount=0;5&equity_default=0;50&fp_equity=0;50"],
+      "Comment":"",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"Axel Springer",
@@ -164,8 +170,10 @@
       "Accelerator locations":"Berlin, Germany",
       "Started":2013,
       "URL":"http://www.axelspringerplugandplay.com/",
-      "Sources":"http://tech.eu/research/29/there-are-roughly-100-active-startup-accelerators-europe/",
-      "Comment":""
+      "Sources":["http://tech.eu/research/29/there-are-roughly-100-active-startup-accelerators-europe/"],
+      "Comment":"",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"Bank of Ireland",
@@ -192,7 +200,7 @@
       "Accelerator locations":"Cork, Ireland",
       "Started":2014,
       "URL":"https://www.bankofireland.com/accelerator-programme/",
-      "Sources":"",
+      "Sources":[],
       "Comment":"Through a not-for-profit fund shared by all startups (one startup succeeds, all win). Maybe it stopped? No news"
    },
    {
@@ -213,15 +221,17 @@
       "Pitch day":"Yes",
       "Cohort info":"TechStars Portfolio + Company names of 1 cohort[s]",
       "CVC data available":"Yes",
-      "Goal":"N/I",
+      "Goal":"",
       "Areas of Interest":"",
       "Partner":"Techstars",
       "Company HQ":"UK",
       "Accelerator locations":"London, UK / New York, USA",
       "Started":2014,
       "URL":"http://www.barclaysaccelerator.com/",
-      "Sources":"http://techcrunch.com/2014/08/25/corporate-accelerators-are-an-oxymoron/",
-      "Comment":""
+      "Sources":["http://techcrunch.com/2014/08/25/corporate-accelerators-are-an-oxymoron/"],
+      "Comment":"",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"Bayer AG",
@@ -248,8 +258,10 @@
       "Accelerator locations":"Berlin, Germany",
       "Started":2014,
       "URL":"https://www.grants4apps.com/accelerator/#/history",
-      "Sources":"",
-      "Comment":""
+      "Sources":[],
+      "Comment":"",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"BBC",
@@ -266,7 +278,7 @@
       "Equity":"No",
       "Education":"Yes, mentors",
       "Office space":"Yes",
-      "Pitch day":"N/I",
+      "Pitch day":"",
       "Cohort info":"Company names of 3 cohort[s]",
       "CVC data available":"Not listed",
       "Goal":"Our goal is to strategically and commercially partner with and support the most innovative up-and-coming digital media companies that are helping to define the emerging digital landscape.",
@@ -276,8 +288,10 @@
       "Accelerator locations":"London, UK / New York, USA",
       "Started":2012,
       "URL":"http://www.bbcwlabs.com/",
-      "Sources":"http://tech.eu/research/29/there-are-roughly-100-active-startup-accelerators-europe/",
-      "Comment":""
+      "Sources":["http://tech.eu/research/29/there-are-roughly-100-active-startup-accelerators-europe/"],
+      "Comment":"",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"Bonnier",
@@ -289,7 +303,7 @@
       "Sector description":"Information",
       "Self-description":"Accelerator",
       "Term":"3 months",
-      "Cohort-based":"N/I",
+      "Cohort-based":"",
       "Funding":"Flexible + Potential follow-on investment",
       "Equity":"Flexible",
       "Education":"Yes, mentors",
@@ -304,7 +318,7 @@
       "Accelerator locations":"Stockholm, Sweden",
       "Started":2013,
       "URL":"http://www.bonnieraccelerator.com",
-      "Sources":"http://tech.eu/research/29/there-are-roughly-100-active-startup-accelerators-europe/",
+      "Sources":["http://tech.eu/research/29/there-are-roughly-100-active-startup-accelerators-europe/"],
       "Comment":"Not active anymore (last round 2014)"
    },
    {
@@ -319,7 +333,7 @@
       "Term":"6 months",
       "Cohort-based":"Yes, regularly",
       "Funding":"Flexible",
-      "Equity":"N/I",
+      "Equity":"",
       "Education":"Yes, mentors",
       "Office space":"Yes",
       "Pitch day":"Yes",
@@ -332,8 +346,10 @@
       "Accelerator locations":"San Jose, USA / Vienna, Austria",
       "Started":2013,
       "URL":"https://eir.cisco.com/",
-      "Sources":"",
-      "Comment":""
+      "Sources":[],
+      "Comment":"",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"Citigroup Inc",
@@ -346,21 +362,21 @@
       "Self-description":"Accelerator",
       "Term":"4 months",
       "Cohort-based":"Yes, yearly",
-      "Funding":"N/I",
-      "Equity":"N/I",
+      "Funding":"",
+      "Equity":"",
       "Education":"Yes, mentors",
-      "Office space":"N/I",
-      "Pitch day":"N/I",
+      "Office space":"",
+      "Pitch day":"",
       "Cohort info":"No",
       "CVC data available":"TBD",
-      "Goal":"N/I",
+      "Goal":"",
       "Areas of Interest":"",
       "Partner":"No",
       "Company HQ":"USA",
       "Accelerator locations":"Tel Aviv, Israel",
       "Started":2013,
       "URL":"http://www.citigroup.com/citi/news/2013/130802a.htm",
-      "Sources":"http://bankinnovation.net/2014/06/citi-expands-its-innovation-ventures-in-israel/",
+      "Sources":["http://bankinnovation.net/2014/06/citi-expands-its-innovation-ventures-in-israel/"],
       "Comment":"Probably already closed and replaced with a new initiative (likely Nov 14). One round took place according to the Bankinnovation article"
    },
    {
@@ -381,15 +397,17 @@
       "Pitch day":"Yes",
       "Cohort info":"Company names of 1 cohort[s]",
       "CVC data available":"Yes",
-      "Goal":"N/I",
+      "Goal":"",
       "Areas of Interest":"",
       "Partner":"No",
       "Company HQ":"USA",
       "Accelerator locations":"Santa Clara, USA / Raleigh, USA / Bangalore, India",
       "Started":2010,
       "URL":"http://citrixstartupaccelerator.com/",
-      "Sources":"http://techcrunch.com/2014/08/25/corporate-accelerators-are-an-oxymoron/",
-      "Comment":""
+      "Sources":["http://techcrunch.com/2014/08/25/corporate-accelerators-are-an-oxymoron/"],
+      "Comment":"",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"Coca-Cola Co",
@@ -405,19 +423,21 @@
       "Funding":"No",
       "Equity":"No",
       "Education":"Yes, mentors and training",
-      "Office space":"N/I, Likely",
-      "Pitch day":"N/I",
+      "Office space":", Likely",
+      "Pitch day":"",
       "Cohort info":"Company names of 1 cohort[s]",
       "CVC data available":"Limited",
-      "Goal":"N/I",
+      "Goal":"",
       "Areas of Interest":"",
       "Partner":"No",
       "Company HQ":"USA",
       "Accelerator locations":"Tel Aviv, Israel",
       "Started":2013,
       "URL":"http://www.thebridgebycocacola.com/",
-      "Sources":"http://www.f6s.com/programs?filter=1&types[1]=accelerator&amount_default=0;5&fp_amount=0;5&equity_default=0;50&fp_equity=0;50",
-      "Comment":""
+      "Sources":["http://www.f6s.com/programs?filter=1&types[1]=accelerator&amount_default=0;5&fp_amount=0;5&equity_default=0;50&fp_equity=0;50"],
+      "Comment":"",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"DBS Group Holdings Ltd",
@@ -444,8 +464,10 @@
       "Accelerator locations":"Hong Kong",
       "Started":2015,
       "URL":"https://www.dbs-accelerator.com/",
-      "Sources":"",
-      "Comment":""
+      "Sources":[],
+      "Comment":"",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"Deutsche Telekom AG",
@@ -472,8 +494,10 @@
       "Accelerator locations":"Krakow, Poland",
       "Started":2012,
       "URL":"https://www.hubraum.com/en/accelerator",
-      "Sources":"https://www.innovationleader.com/tracking-the-corporate-supported-startup-accelerators/",
-      "Comment":""
+      "Sources":["https://www.innovationleader.com/tracking-the-corporate-supported-startup-accelerators/"],
+      "Comment":"",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"dpa",
@@ -490,17 +514,17 @@
       "Equity":"3-10%",
       "Education":"Yes, mentors",
       "Office space":"Yes",
-      "Pitch day":"N/I",
+      "Pitch day":"",
       "Cohort info":"No",
       "CVC data available":"Not listed",
       "Goal":"We are building an Accelerator. *We* means basically the German Press Agency dpa, as we are setting it up right now. Our main objective is not to become a player in the VC business. In fact we love news, we love journalism and we really want them to succeed in the digital world. In order to drive change in the media business we want to launch this accelerator.",
       "Areas of Interest":"",
-      "Partner":"N/I",
+      "Partner":"",
       "Company HQ":"Germany",
       "Accelerator locations":"Hamburg, Germany",
       "Started":2015,
       "URL":"http://nextmediaaccelerator.io/",
-      "Sources":"",
+      "Sources":[],
       "Comment":"Not yet launched"
    },
    {
@@ -528,8 +552,10 @@
       "Accelerator locations":"London, UK",
       "Started":2015,
       "URL":"http://www.lmarks.com/lastmilelabs",
-      "Sources":"http://www.f6s.com/programs?filter=1&types[1]=accelerator&amount_default=0;5&fp_amount=0;5&equity_default=0;50&fp_equity=0;50",
-      "Comment":""
+      "Sources":["http://www.f6s.com/programs?filter=1&types[1]=accelerator&amount_default=0;5&fp_amount=0;5&equity_default=0;50&fp_equity=0;50"],
+      "Comment":"",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"E.ON SE",
@@ -543,7 +569,7 @@
       "Term":"3 months",
       "Cohort-based":"Yes, quarterly",
       "Funding":"10-20K EUR",
-      "Equity":"N/I",
+      "Equity":"",
       "Education":"Yes, consulting and training",
       "Office space":"Yes",
       "Pitch day":"Yes",
@@ -556,7 +582,7 @@
       "Accelerator locations":"Berlin, Germany / Düsseldorf, Germany",
       "Started":2014,
       "URL":"http://eon-agile.com/",
-      "Sources":"",
+      "Sources":[],
       "Comment":"Former hybrid one or at least internal one"
    },
    {
@@ -584,8 +610,10 @@
       "Accelerator locations":"London, UK",
       "Started":2014,
       "URL":"https://webforms.ey.com/UK/en/Services/Specialty-Services/EY-Startup-Challenge#3",
-      "Sources":"",
-      "Comment":""
+      "Sources":[],
+      "Comment":"",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"ImmobilienScout24",
@@ -612,8 +640,10 @@
       "Accelerator locations":"Munich, Germany",
       "Started":2010,
       "URL":"http://www.youisnow.com/",
-      "Sources":"",
-      "Comment":""
+      "Sources":[],
+      "Comment":"",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"Intel Corp",
@@ -640,8 +670,10 @@
       "Accelerator locations":"Redwood City, USA",
       "Started":2015,
       "URL":"https://www-ssl.intel.com/content/www/us/en/education/accelerator/intel-education-accelerator.html#timeline",
-      "Sources":"",
-      "Comment":""
+      "Sources":[],
+      "Comment":"",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"Interpublic Group of Companies, Inc",
@@ -668,8 +700,10 @@
       "Accelerator locations":"New York, USA",
       "Started":2013,
       "URL":"http://rgaaccelerator.com/connecteddevices/",
-      "Sources":"http://www.techstars.com/poweredby/",
-      "Comment":""
+      "Sources":["http://www.techstars.com/poweredby/"],
+      "Comment":"",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"John Lewis",
@@ -696,8 +730,10 @@
       "Accelerator locations":"London, UK",
       "Started":2014,
       "URL":"http://jlab.co.uk/",
-      "Sources":"",
-      "Comment":""
+      "Sources":[],
+      "Comment":"",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"Kaplan",
@@ -717,15 +753,17 @@
       "Pitch day":"Yes",
       "Cohort info":"TechStars Portfolio + Company names of 2 cohort[s]",
       "CVC data available":"Yes, parent",
-      "Goal":"N/I",
+      "Goal":"",
       "Areas of Interest":"",
       "Partner":"Techstars",
       "Company HQ":"USA",
       "Accelerator locations":"New York, USA",
       "Started":2013,
       "URL":"http://kaplanedtechaccelerator.com/",
-      "Sources":"http://www.techstars.com/poweredby/",
-      "Comment":""
+      "Sources":["http://www.techstars.com/poweredby/"],
+      "Comment":"",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"L Brands Inc",
@@ -736,23 +774,23 @@
       "NAICS Sector":44,
       "Sector description":"Retail Trade",
       "Self-description":"Accelerator",
-      "Term":"N/I",
+      "Term":"",
       "Cohort-based":"Yes, regularly (freq. not yet fixed)",
-      "Funding":"N/I",
+      "Funding":"",
       "Equity":"No",
       "Education":"Yes, mentors",
-      "Office space":"N/I",
-      "Pitch day":"N/I",
+      "Office space":"",
+      "Pitch day":"",
       "Cohort info":"No",
       "CVC data available":"TBD",
       "Goal":"LEAP will enable Mast Global to explore new technology solutions while enabling entrepreneurs to gain valuable access to domain expertise and learning",
       "Areas of Interest":"",
       "Partner":"Kyron",
       "Company HQ":"USA",
-      "Accelerator locations":"N/I, India",
+      "Accelerator locations":", India",
       "Started":2015,
-      "URL":"N/I",
-      "Sources":"http://economictimes.indiatimes.com/small-biz/startups/mast-global-launching-corporate-accelerator-to-tap-into-its-innovation-ecosystem/articleshow/47494572.cms",
+      "URL":"",
+      "Sources":["http://economictimes.indiatimes.com/small-biz/startups/mast-global-launching-corporate-accelerator-to-tap-into-its-innovation-ecosystem/articleshow/47494572.cms"],
       "Comment":"Subsidary Mast Global (logistic arm) is owning it"
    },
    {
@@ -766,22 +804,24 @@
       "Self-description":"Accelerator",
       "Term":"12 months (3 + 9 months)",
       "Cohort-based":"Yes, (yearly?)",
-      "Funding":"N/I",
+      "Funding":"",
       "Equity":"Up to 5% (Option)",
       "Education":"Yes, mentors",
       "Office space":"Yes, but to be paid",
-      "Pitch day":"N/I",
+      "Pitch day":"",
       "Cohort info":"Company names of 1 cohort[s]",
       "CVC data available":"TBD",
-      "Goal":"N/I",
+      "Goal":"",
       "Areas of Interest":"",
       "Partner":"No",
       "Company HQ":"France",
       "Accelerator locations":"Paris, France",
       "Started":2014,
       "URL":"http://legroupe.laposte.fr/Start-up/",
-      "Sources":"",
-      "Comment":""
+      "Sources":[],
+      "Comment":"",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"MasterCard Inc Class A",
@@ -798,7 +838,7 @@
       "Equity":"No",
       "Education":"Yes, mentors",
       "Office space":"Yes",
-      "Pitch day":"N/I",
+      "Pitch day":"",
       "Cohort info":"Company names of 1 cohort[s]",
       "CVC data available":"Yes",
       "Goal":"We have one main objective, partnering with each startup to grow their businesses faster than they could by themselves. Our only measure of success is your success.",
@@ -808,8 +848,10 @@
       "Accelerator locations":"Dublin, Ireland",
       "Started":2014,
       "URL":"http://www.startpath.com/",
-      "Sources":"http://www.f6s.com/programs?filter=1&types[1]=accelerator&amount_default=0;5&fp_amount=0;5&equity_default=0;50&fp_equity=0;50",
-      "Comment":""
+      "Sources":["http://www.f6s.com/programs?filter=1&types[1]=accelerator&amount_default=0;5&fp_amount=0;5&equity_default=0;50&fp_equity=0;50"],
+      "Comment":"",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"METRO AG",
@@ -822,8 +864,8 @@
       "Self-description":"Accelerator",
       "Term":"3 months",
       "Cohort-based":"Yes, yearly",
-      "Funding":"N/I",
-      "Equity":"N/I",
+      "Funding":"",
+      "Equity":"",
       "Education":"Yes, mentors and access to internal experts",
       "Office space":"Yes",
       "Pitch day":"Yes",
@@ -836,8 +878,10 @@
       "Accelerator locations":"Berlin, Germany",
       "Started":2015,
       "URL":"http://www.techstarsmetro.com/",
-      "Sources":"http://www.techstars.com/program/locations/",
-      "Comment":""
+      "Sources":["http://www.techstars.com/program/locations/"],
+      "Comment":"",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"Microsoft Corp",
@@ -857,14 +901,14 @@
       "Pitch day":"Yes",
       "Cohort info":"Company names of several cohort[s]",
       "CVC data available":"Yes",
-      "Goal":"N/I",
+      "Goal":"",
       "Areas of Interest":"",
       "Partner":"No",
       "Company HQ":"USA",
       "Accelerator locations":"Bangalore, India / Beijing, China / Berlin, Germany / London, UK / Paris, France / Seattle, USA / Tel Aviv, Israel",
-      "Started":"N/I",
+      "Started":"",
       "URL":"https://www.microsoftventures.com/locations/bangalore/faq",
-      "Sources":"",
+      "Sources":[],
       "Comment":"Likely the successor of the other Microsoft program"
    },
    {
@@ -892,7 +936,7 @@
       "Accelerator locations":"Seattle, USA",
       "Started":2012,
       "URL":"http://www.microsoftaccelerator.com/",
-      "Sources":"http://techcrunch.com/2014/08/25/corporate-accelerators-are-an-oxymoron/",
+      "Sources":["http://techcrunch.com/2014/08/25/corporate-accelerators-are-an-oxymoron/"],
       "Comment":"Still alive? No information about current applications"
    },
    {
@@ -909,8 +953,8 @@
       "Funding":"$50K",
       "Equity":"Flexible",
       "Education":"Yes, mentors",
-      "Office space":"N/I",
-      "Pitch day":"N/I",
+      "Office space":"",
+      "Pitch day":"",
       "Cohort info":"Company names of 1 cohort[s]",
       "CVC data available":"TBD",
       "Goal":"MTGx MediaFactory is a startup partnership program targeted to early stage ventures within the media industry, focused on online video and music.",
@@ -920,8 +964,10 @@
       "Accelerator locations":"Stockholm, Sweden",
       "Started":2014,
       "URL":"http://www.mtgxmediafactory.com/",
-      "Sources":"",
-      "Comment":""
+      "Sources":[],
+      "Comment":"",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"Mondelez International Inc Class A",
@@ -948,7 +994,7 @@
       "Accelerator locations":"Chicago, USA",
       "Started":2012,
       "URL":"https://www.mobilefutures.com/",
-      "Sources":"",
+      "Sources":[],
       "Comment":"It's a very different approach. Where established startups get the opportunity to work with the company. Not sure if it really helps the startup?"
    },
    {
@@ -962,21 +1008,21 @@
       "Self-description":"Accelerator",
       "Term":"3 months",
       "Cohort-based":"Yes, yearly",
-      "Funding":"N/I",
-      "Equity":"N/I",
+      "Funding":"",
+      "Equity":"",
       "Education":"Yes, mentors",
       "Office space":"Yes",
       "Pitch day":"Yes",
       "Cohort info":"TechStars Portfolio + Company names of 1 cohort[s]",
       "CVC data available":"Limited",
-      "Goal":"N/I",
+      "Goal":"",
       "Areas of Interest":"",
       "Partner":"Techstars",
       "Company HQ":"USA",
       "Accelerator locations":"San Francisco, USA",
       "Started":2013,
       "URL":"http://www.nikefuellab.com/",
-      "Sources":"http://www.techstars.com/program/locations/",
+      "Sources":["http://www.techstars.com/program/locations/"],
       "Comment":"Still alive? The 2013 edition was called "
    },
    {
@@ -1004,8 +1050,10 @@
       "Accelerator locations":"France, Poland, Asia, Ivory Coast, Israel, USA",
       "Started":2012,
       "URL":"http://orangefab.com",
-      "Sources":"http://tech.eu/research/29/there-are-roughly-100-active-startup-accelerators-europe/",
-      "Comment":""
+      "Sources":["http://tech.eu/research/29/there-are-roughly-100-active-startup-accelerators-europe/"],
+      "Comment":"",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"PCH International",
@@ -1032,7 +1080,7 @@
       "Accelerator locations":"San Francisco, USA",
       "Started":2013,
       "URL":"http://highway1.io/",
-      "Sources":"",
+      "Sources":[],
       "Comment":"Very interesting as highly integrated approach"
    },
    {
@@ -1050,7 +1098,7 @@
       "Equity":"No",
       "Education":"Yes, mentors",
       "Office space":"No",
-      "Pitch day":"N/I",
+      "Pitch day":"",
       "Cohort info":"Company names of 2 cohort[s]",
       "CVC data available":"Yes",
       "Goal":"We identify the most promising education startup companies that share Pearson’s commitment to improving people’s lives through learning. Through Pearson Catalyst for Education, we match startups with Pearson brands to deliver pilot programs.",
@@ -1060,8 +1108,10 @@
       "Accelerator locations":"Remote",
       "Started":2013,
       "URL":"https://catalyst.pearson.com/",
-      "Sources":"http://techcrunch.com/2014/08/25/corporate-accelerators-are-an-oxymoron/",
-      "Comment":""
+      "Sources":["http://techcrunch.com/2014/08/25/corporate-accelerators-are-an-oxymoron/"],
+      "Comment":"",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"Pitney Bowes Inc",
@@ -1088,8 +1138,10 @@
       "Accelerator locations":"Noida, India",
       "Started":2014,
       "URL":"http://accelerator.pitneybowes.com/",
-      "Sources":"",
-      "Comment":""
+      "Sources":[],
+      "Comment":"",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"ProSiebenSat.1 Media AG",
@@ -1116,8 +1168,10 @@
       "Accelerator locations":"Munich, Germany / Berlin, Germany",
       "Started":2013,
       "URL":"https://www.p7s1accelerator.com/en/home/",
-      "Sources":"http://tech.eu/research/29/there-are-roughly-100-active-startup-accelerators-europe/",
-      "Comment":""
+      "Sources":["http://tech.eu/research/29/there-are-roughly-100-active-startup-accelerators-europe/"],
+      "Comment":"",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"Qualcomm Inc",
@@ -1144,8 +1198,10 @@
       "Accelerator locations":"San Diego, USA",
       "Started":2014,
       "URL":"http://qualcommaccelerator.com/",
-      "Sources":"http://www.techstars.com/program/locations/",
-      "Comment":""
+      "Sources":["http://www.techstars.com/program/locations/"],
+      "Comment":"",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"Samsung Electronics",
@@ -1172,7 +1228,7 @@
       "Accelerator locations":"Palo Alto, USA / New York, USA",
       "Started":2013,
       "URL":"http://samsungaccelerator.com/",
-      "Sources":"http://techcrunch.com/2014/08/25/corporate-accelerators-are-an-oxymoron/",
+      "Sources":["http://techcrunch.com/2014/08/25/corporate-accelerators-are-an-oxymoron/"],
       "Comment":"Is that actually a real accelerator?"
    },
    {
@@ -1187,7 +1243,7 @@
       "Term":"3 months",
       "Cohort-based":"Yes, regularly (freq. not yet fixed)",
       "Funding":"30K SGD",
-      "Equity":"N/I",
+      "Equity":"",
       "Education":"Yes, mentors",
       "Office space":"Yes",
       "Pitch day":"Yes",
@@ -1200,7 +1256,7 @@
       "Accelerator locations":"Singapore",
       "Started":2015,
       "URL":"http://sphplugandplay.sph.com.sg/",
-      "Sources":"",
+      "Sources":[],
       "Comment":"No cohort launched yet"
    },
    {
@@ -1228,8 +1284,10 @@
       "Accelerator locations":"Kansas City, USA",
       "Started":2013,
       "URL":"http://www.sprintaccelerator.com/",
-      "Sources":"http://techcrunch.com/2014/08/25/corporate-accelerators-are-an-oxymoron/",
-      "Comment":""
+      "Sources":["http://techcrunch.com/2014/08/25/corporate-accelerators-are-an-oxymoron/"],
+      "Comment":"",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"Swire",
@@ -1246,18 +1304,20 @@
       "Equity":"No",
       "Education":"Yes, mentors and workshops",
       "Office space":"Yes",
-      "Pitch day":"N/I",
+      "Pitch day":"",
       "Cohort info":"Company names of 1 cohort[s]",
       "CVC data available":"Limited",
-      "Goal":"N/I",
+      "Goal":"",
       "Areas of Interest":"",
       "Partner":"No",
       "Company HQ":"Hong Kong",
       "Accelerator locations":"Hong Kong",
       "Started":2015,
       "URL":"http://blueprint.swireproperties.com/en/",
-      "Sources":"",
-      "Comment":""
+      "Sources":[],
+      "Comment":"",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"Target Corp",
@@ -1270,8 +1330,8 @@
       "Self-description":"Accelerator",
       "Term":"4 months",
       "Cohort-based":"Yes, twice a year",
-      "Funding":"N/I",
-      "Equity":"N/I",
+      "Funding":"",
+      "Equity":"",
       "Education":"Yes, mentors",
       "Office space":"Yes",
       "Pitch day":"Yes",
@@ -1284,8 +1344,10 @@
       "Accelerator locations":"Bangalore, India",
       "Started":2014,
       "URL":"https://corporate.target.com/India/about/Target-Accelerator-Program",
-      "Sources":"http://techcrunch.com/2013/11/26/target-yes-that-target-wants-to-launch-an-accelerator-in-india-to-tap-into-its-startup-scene/",
-      "Comment":""
+      "Sources":["http://techcrunch.com/2013/11/26/target-yes-that-target-wants-to-launch-an-accelerator-in-india-to-tap-into-its-startup-scene/"],
+      "Comment":"",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"Telecom Italia SpA",
@@ -1302,7 +1364,7 @@
       "Equity":"No, but investment through TIM Ventures possible",
       "Education":"Yes, mentors",
       "Office space":"Yes",
-      "Pitch day":"N/I, but TIM Ventures",
+      "Pitch day":", but TIM Ventures",
       "Cohort info":"No",
       "CVC data available":"TBD",
       "Goal":"We help turn ideas into market-ready companies, supporting startups directly during the creation and development stages. To do this we work daily to foster a community of professionals and partners in the Italian innovation ecosystem.  During the program the teams will also begin talking with Telecom Italia’s business unit in order to initiate early collaboration that could eventually turn into a contract with the company.",
@@ -1312,7 +1374,7 @@
       "Accelerator locations":"Catania, Italy / Rome, Italy / Milano, Italy / Bologna, Italy",
       "Started":2013,
       "URL":"http://www.wcap.tim.it",
-      "Sources":"",
+      "Sources":[],
       "Comment":"Start of initiative already in 2009 (from competition to accelerator), Startups are becoming part of TIM's procurement list"
    },
    {
@@ -1327,7 +1389,7 @@
       "Term":"6-12 months",
       "Cohort-based":"Yes, regularly (freq.?)",
       "Funding":"Around $50K",
-      "Equity":"N/I",
+      "Equity":"",
       "Education":"Yes, mentors",
       "Office space":"Yes",
       "Pitch day":"Yes",
@@ -1340,8 +1402,10 @@
       "Accelerator locations":"Argentinia, Brazil, Chile, Colombia, Mexico, Peru, Venezuela, Central East Europe, Germany, Ireland, Spain, UK",
       "Started":2011,
       "URL":"http://wayra.co",
-      "Sources":"http://tech.eu/research/29/there-are-roughly-100-active-startup-accelerators-europe/",
-      "Comment":""
+      "Sources":["http://tech.eu/research/29/there-are-roughly-100-active-startup-accelerators-europe/"],
+      "Comment":"",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"Telekom Malaysia",
@@ -1357,18 +1421,18 @@
       "Funding":"No",
       "Equity":"No",
       "Education":"Yes, mentors",
-      "Office space":"N/I",
-      "Pitch day":"N/I",
+      "Office space":"",
+      "Pitch day":"",
       "Cohort info":"Company names of 2 cohort[s]",
       "CVC data available":"TBD",
-      "Goal":"N/I",
+      "Goal":"",
       "Areas of Interest":"",
       "Partner":"Startup Malaysia",
       "Company HQ":"Malaysia",
       "Accelerator locations":"Kuala Lumpur, Malaysia",
       "Started":2012,
       "URL":"http://www.startupmalaysia.org/dmcapll/",
-      "Sources":"",
+      "Sources":[],
       "Comment":"Might be closer to non-profit, not regular (2 sessions so far, maybe closed now?), People can keep their jobs and only work 30h/month on the startup"
    },
    {
@@ -1396,8 +1460,10 @@
       "Accelerator locations":"Antwerp, Belgium",
       "Started":2014,
       "URL":"http://telenetidealabs.be/accelerator/",
-      "Sources":"",
-      "Comment":""
+      "Sources":[],
+      "Comment":"",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"Telstra",
@@ -1424,8 +1490,10 @@
       "Accelerator locations":"Sydney, Australia / Singapore / Auckland, New Zealand",
       "Started":2013,
       "URL":"http://www.muru-d.com",
-      "Sources":"",
-      "Comment":""
+      "Sources":[],
+      "Comment":"",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"Time Warner Inc",
@@ -1442,17 +1510,17 @@
       "Equity":"Flexible",
       "Education":"Yes, mentors and training",
       "Office space":"Yes, optional",
-      "Pitch day":"N/I",
+      "Pitch day":"",
       "Cohort info":"Company names of 3 cohort[s]",
       "CVC data available":"Yes",
-      "Goal":"N/I",
+      "Goal":"",
       "Areas of Interest":"",
       "Partner":"No",
       "Company HQ":"USA",
       "Accelerator locations":"Los Angeles, USA",
       "Started":2012,
       "URL":"http://www.mediacamp.com/about/",
-      "Sources":"https://www.innovationleader.com/tracking-the-corporate-supported-startup-accelerators/",
+      "Sources":["https://www.innovationleader.com/tracking-the-corporate-supported-startup-accelerators/"],
       "Comment":"Formerly together with Turner Broadcasting which left in Dec 2014: http://techcrunch.com/2014/12/23/turner-media-camp-shutdown/"
    },
    {
@@ -1470,7 +1538,7 @@
       "Equity":"8%",
       "Education":"Yes, mentors and coaches",
       "Office space":"Yes",
-      "Pitch day":"N/I",
+      "Pitch day":"",
       "Cohort info":"No",
       "CVC data available":"TBD",
       "Goal":"We’re serious about redefining travel commerce, and we know there are some highly talented developers and travel start-ups out there who are also looking to have a positive impact on the travel commerce landscape.",
@@ -1480,8 +1548,10 @@
       "Accelerator locations":"Denver, USA",
       "Started":2015,
       "URL":"http://www.travelport.com/labs/index.html",
-      "Sources":"",
-      "Comment":""
+      "Sources":[],
+      "Comment":"",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"Tune Group",
@@ -1501,14 +1571,14 @@
       "Pitch day":"Yes",
       "Cohort info":"No",
       "CVC data available":"TBD",
-      "Goal":"N/I",
+      "Goal":"",
       "Areas of Interest":"",
       "Partner":"No",
       "Company HQ":"Malaysia",
       "Accelerator locations":"Kuala Lumpur, Malaysia",
       "Started":2015,
       "URL":"http://thetunelabs.com/incubator/",
-      "Sources":"https://www.techinasia.com/key-people-airasia-launch-tune-labs-startup-accelerator-southeast-asia/",
+      "Sources":["https://www.techinasia.com/key-people-airasia-launch-tune-labs-startup-accelerator-southeast-asia/"],
       "Comment":"Personally funded by the management, but could be by the company later. Have also a program called Accelerator that isn't an Accelerator"
    },
    {
@@ -1520,23 +1590,23 @@
       "NAICS Sector":32,
       "Sector description":"Manufacturing",
       "Self-description":"Evolving list of opportunities",
-      "Term":"N/I",
+      "Term":"",
       "Cohort-based":"Yes, regularly",
       "Funding":"Up to $50K (depending on challenge)",
-      "Equity":"N/I",
+      "Equity":"",
       "Education":"Yes, mentors",
-      "Office space":"N/I",
-      "Pitch day":"N/I",
+      "Office space":"",
+      "Pitch day":"",
       "Cohort info":"No",
       "CVC data available":"Yes",
-      "Goal":"N/I",
+      "Goal":"",
       "Areas of Interest":"",
       "Partner":"No",
       "Company HQ":"Netherlands and UK",
-      "Accelerator locations":"N/I",
+      "Accelerator locations":"",
       "Started":2013,
       "URL":"http://foundry.unilever.com/pilot/",
-      "Sources":"http://www.f6s.com/programs?filter=1&types[1]=accelerator&amount_default=0;5&fp_amount=0;5&equity_default=0;50&fp_equity=0;50",
+      "Sources":["http://www.f6s.com/programs?filter=1&types[1]=accelerator&amount_default=0;5&fp_amount=0;5&equity_default=0;50&fp_equity=0;50"],
       "Comment":"Started as Go Global"
    },
    {
@@ -1547,11 +1617,11 @@
       "NAICS":336111,
       "NAICS Sector":33,
       "Sector description":"Manufacturing",
-      "Self-description":"N/I",
-      "Term":"N/I",
+      "Self-description":"",
+      "Term":"",
       "Cohort-based":"Yes, regularly?",
-      "Funding":"N/I",
-      "Equity":"N/I",
+      "Funding":"",
+      "Equity":"",
       "Education":"Yes, mentors, coaching and educational workshops",
       "Office space":"Yes",
       "Pitch day":"Potentially at Plug and Play",
@@ -1564,7 +1634,7 @@
       "Accelerator locations":"Belmont, USA",
       "Started":2012,
       "URL":"http://www.plugandplaytechcenter.com/programs/volkswagen-erl-technology-accelerator",
-      "Sources":"http://techcrunch.com/2014/08/25/corporate-accelerators-are-an-oxymoron/",
+      "Sources":["http://techcrunch.com/2014/08/25/corporate-accelerators-are-an-oxymoron/"],
       "Comment":"A new "
    },
    {
@@ -1592,8 +1662,10 @@
       "Accelerator locations":"Los Angeles, USA",
       "Started":2014,
       "URL":"http://disneyaccelerator.com/",
-      "Sources":"http://techcrunch.com/2014/08/25/corporate-accelerators-are-an-oxymoron/",
-      "Comment":""
+      "Sources":["http://techcrunch.com/2014/08/25/corporate-accelerators-are-an-oxymoron/"],
+      "Comment":"",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"Wells Fargo & Co",
@@ -1609,19 +1681,21 @@
       "Funding":"$50K-$500K",
       "Equity":"minority",
       "Education":"Yes, advisors and network",
-      "Office space":"N/I",
-      "Pitch day":"N/I",
+      "Office space":"",
+      "Pitch day":"",
       "Cohort info":"No",
       "CVC data available":"Yes",
-      "Goal":"N/I",
+      "Goal":"",
       "Areas of Interest":"",
       "Partner":"No",
       "Company HQ":"USA",
-      "Accelerator locations":"N/I",
+      "Accelerator locations":"",
       "Started":2014,
       "URL":"https://accelerator.wellsfargo.com/",
-      "Sources":"http://techcrunch.com/2014/08/20/wells-fargo-launches-accelerator-to-promote-innovation-in-financial-services/",
-      "Comment":""
+      "Sources":["http://techcrunch.com/2014/08/20/wells-fargo-launches-accelerator-to-promote-innovation-in-financial-services/"],
+      "Comment":"",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"Yahoo! Inc",
@@ -1638,7 +1712,7 @@
       "Equity":"No",
       "Education":"Yes, mentors",
       "Office space":"Yes",
-      "Pitch day":"N/I",
+      "Pitch day":"",
       "Cohort info":"No",
       "CVC data available":"TBD",
       "Goal":"Yahoo Ad Tech program wants to collaborate with your early-stage ad tech startup.",
@@ -1648,7 +1722,7 @@
       "Accelerator locations":"Tel Aviv, Israel",
       "Started":2014,
       "URL":"https://www.f6s.com/yahooadtechprogram1",
-      "Sources":"",
+      "Sources":[],
       "Comment":"No dedicated homepage"
    },
    {
@@ -1665,19 +1739,21 @@
       "Funding":"No, but some travel reimbursement",
       "Equity":"No",
       "Education":"Yes, mentors",
-      "Office space":"N/I",
+      "Office space":"",
       "Pitch day":"Yes",
       "Cohort info":"Company names of 4 cohort[s]",
       "CVC data available":"Yes",
-      "Goal":"N/I",
+      "Goal":"",
       "Areas of Interest":"",
       "Partner":"No",
       "Company HQ":"Russia",
       "Accelerator locations":"Moscow, Russia",
       "Started":2013,
       "URL":"https://startups.yandex.ru/events/tolstoycamp/2013/",
-      "Sources":"http://tech.eu/research/29/there-are-roughly-100-active-startup-accelerators-europe/",
-      "Comment":""
+      "Sources":["http://tech.eu/research/29/there-are-roughly-100-active-startup-accelerators-europe/"],
+      "Comment":"",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"YLE",
@@ -1704,7 +1780,9 @@
       "Accelerator locations":"Helsinki, Finland",
       "Started":2014,
       "URL":"https://www.f6s.com/yle-media-startup-accelerator",
-      "Sources":"",
-      "Comment":""
+      "Sources":[],
+      "Comment":"",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    }
 ]

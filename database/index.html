@@ -1,25 +1,35 @@
 ---
 layout: page
-title: Corporate Accelerator Database
+title: Database
+fullwidth: true
 ---
 
-<table id="ca_database" role="grid">
+<table id="ca_database" role="grid" class="display">
   <thead>
     <tr>
       <th>Company</th>
       <th>Accelerator</th>
+      <th class="tab-hide-if-no-space">Funding</th>
+      <th class="tab-hide-if-no-space">Equity</th>
+      <th class="tab-hide-if-no-space">Website</th>
+      <th class="tab-hide-if-no-space">Details</th>
     </tr>
   </thead>
   <tbody>
     {% for accelerator in site.data.Accelerators %}
       <tr>
-        <td>{{ accelerator.Company }}</td>
-        <td><a href="{{ accelerator.URL }}">{{ accelerator.Name }}</td>
+        <td class=""><a href="{{ accelerator.Company | acceleratorurl: accelerator.Name }}">{{ accelerator.Company | truncate: 25 }}</a></td>
+        <td class="">{{ accelerator.Name | truncate: 25 }}</td>
+        <td class="tab-hide-if-no-space">{{ accelerator.Funding | truncate: 15 }}</td>
+        <td class="tab-hide-if-no-space">{{ accelerator.Equity | truncate: 15 }}</td>
+        <td class="dt-center tab-hide-if-no-space"><a href="{{ accelerator.URL }}">Website</td>
+        <td class="dt-center tab-hide-if-no-space"><a href="{{ accelerator.Company | acceleratorurl: accelerator.Name }}">Details</a></td>
       </tr>
     {% endfor %}
   </tbody>
 </table>
 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script> 
 <script src="/js/datatables.js"></script>
 <link rel="stylesheet" href="/css/datatables.css">
 <script>
