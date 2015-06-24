@@ -1,0 +1,50 @@
+---
+layout: page
+title: Focus areas of Corporate Accelerators
+shorttitle: Focus areas
+fullwidth: true
+notopnav: true
+---
+
+<p>Below you'll find a list of the focus areas of all {{ site.data.Accelerators.size }} Corporate Accelerators we have listed in our <a href="/database/index.html">database</a>. We aim to keep this data as <a href="/update.html">up-to-date</a> as possible. Please <a href="/update.html">help us</a> if you come across new programs!</p>
+
+<table id="ca_database_focus" role="grid" class="display">
+  <thead>
+    <tr>
+      <th>Company</th>
+      <th class="tab-hide-if-no-space">Accelerator</th>
+      <th>Focus areas</th>
+      <th class="tab-hide-if-no-space">Website</th>
+      <th class="tab-hide-if-no-space">Details</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for accelerator in site.data.Accelerators %}
+      <tr>
+        <td class=""><a href="{{ accelerator.Company | acceleratorurl: accelerator.Name }}">{{ accelerator.Company | truncate: 25 }}</a></td>
+        <td class="tab-hide-if-no-space">{{ accelerator.Name | truncate: 25 }}</td>
+{% if accelerator['Areas of Interest'] != "" %}
+        <td>{{ accelerator['Areas of Interest'] | markdownify }}</td>
+{% else %}
+        <td>{{ accelerator['Areas of Interest'] | noinfo }}</td>
+{% endif %}
+        <td class="dt-center tab-hide-if-no-space"><a href="{{ accelerator.URL }}">Website</td>
+        <td class="dt-center tab-hide-if-no-space"><a href="{{ accelerator.Company | acceleratorurl: accelerator.Name }}">Details</a></td>
+      </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+<p>For the data junkies among you, you'll find the full list as <a href="https://github.com/florianheinemann/www-corporate-accelerators-net/blob/master/_data/Accelerators.json">JSON</a> over at GitHub</p>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script> 
+<script src="/js/datatables.js"></script>
+<link rel="stylesheet" href="/css/datatables.css">
+<script>
+$(document).ready( function () {
+    $('#ca_database_focus').DataTable({
+      paging: false,
+      order: [[ 0, 'asc' ]]
+    });
+} );
+</script>

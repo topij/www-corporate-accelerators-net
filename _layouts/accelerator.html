@@ -56,8 +56,13 @@ Website: <a href="{{ page.accelerator['URL'] }}">{{ page.accelerator['Name'] }}<
         <td>{{ page.accelerator['Started'] | noinfo }}</td>
       </tr>
       <tr>
+{% if page.accelerator['Areas of Interest'] != "" %}
+        <td>Focus areas</br><span class="nobold">(<a href="{{ page.accelerator['URL'] }}">Source</a>)</span></td>
+        <td>{{ page.accelerator['Areas of Interest'] | markdownify }}</td>
+{% else %}
         <td>Focus areas</td>
         <td>{{ page.accelerator['Areas of Interest'] | noinfo }}</td>
+{% endif %}
       </tr>
   </tbody>
 </table>
