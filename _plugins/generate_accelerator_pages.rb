@@ -25,6 +25,9 @@ module Jekyll
 
       self.data['title'] = "#{company} - #{nameOfAccelerator}"
       self.data['accelerator'] = accelerator
+
+      self.data['sitemap'] = {}
+      self.data['sitemap']['lastmod'] = accelerator['Modified']      
     end
   end
 end

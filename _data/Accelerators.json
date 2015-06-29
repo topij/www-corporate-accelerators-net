@@ -18,14 +18,7 @@
       "Cohort info":"Company names of 1 cohort[s]",
       "CVC data available":"Limited",
       "Goal":"We are seeking up to 8 ambitious startup companies from across Asia with an innovative healthtech proposition",
-      "Areas of Interest":"We are seeking up to 8 ambitious startup companies from across Asia with an innovative healthtech proposition. If you are passionate about improving the lives of people through medical, lifestyle, and health monitoring technologies and believe you can bring in a new era of healthtech innovation, we want to hear from you!
-The types of teams we are looking for include:\n\n
-- remote medical solutions involving imaging, voice and sensor technology\n
-- technology-related products for healthcare providers\n
-- care-provider communication and coordination\n
-- client/patient monitoring solutions\n
-- predictive analytics\n
-- workflow and enterprise management",
+      "Areas of Interest":"We are seeking up to 8 ambitious startup companies from across Asia with an innovative healthtech proposition. If you are passionate about improving the lives of people through medical, lifestyle, and health monitoring technologies and believe you can bring in a new era of healthtech innovation, we want to hear from you! The types of teams we are looking for include:\n\n - remote medical solutions involving imaging, voice and sensor technology\n - technology-related products for healthcare providers\n - care-provider communication and coordination\n - client/patient monitoring solutions\n - predictive analytics\n - workflow and enterprise management",
       "Partner":"Nest",
       "Company HQ":"Hong Kong",
       "Accelerator locations":"Hong Kong",
@@ -85,18 +78,16 @@ The types of teams we are looking for include:\n\n
       "Cohort info":"No",
       "CVC data available":"Yes",
       "Goal":"The Allianz Digital Accelerator builds new business models for Allianz and accelerates their execution and implementation within Allianz to ultimately better serve and build value for our customers.",
-      "Areas of Interest":"The profound and accelerating change driven by digital technology is massively impacting the lives of our customers, stakeholders, and ourselves. We as the team of the Allianz Digital Accelerator believe that not the big companies will succeed against the small companies, but the fast against the slow ones. Therefore, in everything we do, we aim to be at the forefront of creating new and exciting solutions and services for today’s and tomorrow’s customers of Allianz.\n\n
-
-- Profound change driven by digital\n
-- Help sustain a culture of innovation\n
-- Improve our customer experiences",
+      "Areas of Interest":"The profound and accelerating change driven by digital technology is massively impacting the lives of our customers, stakeholders, and ourselves. We as the team of the Allianz Digital Accelerator believe that not the big companies will succeed against the small companies, but the fast against the slow ones. Therefore, in everything we do, we aim to be at the forefront of creating new and exciting solutions and services for today’s and tomorrow’s customers of Allianz.\n\n- Profound change driven by digital\n - Help sustain a culture of innovation\n - Improve our customer experiences",
       "Partner":"",
       "Company HQ":"Germany",
       "Accelerator locations":"Munich, Germany",
       "Started":2013,
       "URL":"http://www.digital-accelerator.com",
       "Sources":["http://www.gruenderszene.de/allgemein/digital-accelerator-allianz"],
-      "Comment":"Still alive? Is it really an accelerator?"
+      "Comment":"Still alive? Is this really an accelerator?",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"Anheuser Busch Inbev SA",
@@ -117,18 +108,16 @@ The types of teams we are looking for include:\n\n
       "Cohort info":"No",
       "CVC data available":"TBD",
       "Goal":"Budweiser Dream Brewery is a new platform to inspire and empower tech innovators to come up with and realize their creative ideas around beer consumption/shopping experience/responsible drinking.",
-      "Areas of Interest":"Anything that brings clear benefit to consumer in:\n\n
-
-- Beer Consumption Experience \n
-- Beer Shopping Experience \n
-- Responsible Drinking",
+      "Areas of Interest":"Anything that brings clear benefit to consumer in:\n\n- Beer Consumption Experience \n - Beer Shopping Experience \n - Responsible Drinking",
       "Partner":"No",
       "Company HQ":"Belgium",
       "Accelerator locations":"Shanghai, China",
       "Started":2015,
       "URL":"https://www.f6s.com/budweiserdreambrewery/about",
       "Sources":[],
-      "Comment":"No dedicated homepage"
+      "Comment":"No dedicated homepage",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"AT&T Inc",
@@ -216,7 +205,9 @@ The types of teams we are looking for include:\n\n
       "Started":2014,
       "URL":"https://www.bankofireland.com/accelerator-programme/",
       "Sources":[],
-      "Comment":"Through a not-for-profit fund shared by all startups (one startup succeeds, all win). Maybe it stopped? No news"
+      "Comment":"A not-for-profit fund shared by all startups (one startup succeeds, all win). Is it still alive?",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"Barclays PLC",
@@ -267,12 +258,7 @@ The types of teams we are looking for include:\n\n
       "Cohort info":"Company names of 1 cohort[s]",
       "CVC data available":"Yes",
       "Goal":"We are looking for startups beyond the ideation phase developing health technology or IT solutions that can connect and empower patients or healthcare stakeholders – mobile apps, digital services, wearables, medical devices, software, hardware. Any integrated next-generation technology that supports adherence, diagnosis, therapy control or prevention is welcome to submit a nomination.",
-      "Areas of Interest":"We are looking for startups beyond the ideation phase developing health technology or IT solutions that can connect and empower patients or healthcare stakeholders – mobile apps, digital services, wearables, medical devices, software, hardware. Any integrated next-generation technology that supports adherence, diagnosis, therapy control or prevention is welcome to submit a nomination. We are particularly interested in solutions for patient compliance and digital therapies. Possible focus topics could cover:
-\n\n
-- Patients: empowerment, health checks, prevention\n
-- Therapies: compliance, digital therapies\n
-- Healthcare system: home health, lab work, clinical problem solving, clinical trials in connected healthcare\n
-- Animal health",
+      "Areas of Interest":"We are looking for startups beyond the ideation phase developing health technology or IT solutions that can connect and empower patients or healthcare stakeholders – mobile apps, digital services, wearables, medical devices, software, hardware. Any integrated next-generation technology that supports adherence, diagnosis, therapy control or prevention is welcome to submit a nomination. We are particularly interested in solutions for patient compliance and digital therapies. Possible focus topics could cover:\n\n - Patients: empowerment, health checks, prevention\n - Therapies: compliance, digital therapies\n - Healthcare system: home health, lab work, clinical problem solving, clinical trials in connected healthcare\n - Animal health",
       "Partner":"No",
       "Company HQ":"Germany",
       "Accelerator locations":"Berlin, Germany",
@@ -339,7 +325,9 @@ The types of teams we are looking for include:\n\n
       "Started":2013,
       "URL":"http://www.bonnieraccelerator.com",
       "Sources":["http://tech.eu/research/29/there-are-roughly-100-active-startup-accelerators-europe/"],
-      "Comment":"Not active anymore (last round 2014)"
+      "Comment":"Not active anymore (last cohort in 2014)",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"Cisco Systems Inc",
@@ -360,12 +348,7 @@ The types of teams we are looking for include:\n\n
       "Cohort info":"Company names of 2 cohort[s]",
       "CVC data available":"Yes",
       "Goal":"Cisco Entrepreneurs in Residence (Cisco EIR) is designed to support early-stage entrepreneurs working on the next big ideas in the Internet of Things/Everything (IoT/IoE), enterprise security, cloud computing, Big Data/analytics, Smart Cities and other areas strategic to Cisco.",
-      "Areas of Interest":"- Internet of Things/Everything (IoT/IoE)\n
-- Enterprise security\n
-- Cloud computing\n
-- Big Data/analytics\n
-- Smart Cities\n
-- Other areas strategic to Cisco",
+      "Areas of Interest":"- Internet of Things/Everything (IoT/IoE)\n - Enterprise security\n - Cloud computing\n - Big Data/analytics\n - Smart Cities\n - Other areas strategic to Cisco",
       "Partner":"No",
       "Company HQ":"USA",
       "Accelerator locations":"San Jose, USA / Vienna, Austria",
@@ -402,7 +385,9 @@ The types of teams we are looking for include:\n\n
       "Started":2013,
       "URL":"http://www.citigroup.com/citi/news/2013/130802a.htm",
       "Sources":["http://bankinnovation.net/2014/06/citi-expands-its-innovation-ventures-in-israel/"],
-      "Comment":"Probably already closed and replaced with a new initiative (likely Nov 14). One round took place according to the Bankinnovation article"
+      "Comment":"Probably already closed and replaced with a new initiative (likely Nov 14). One round took place according to the Bankinnovation article.",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"Citrix Systems Inc",
@@ -453,13 +438,7 @@ The types of teams we are looking for include:\n\n
       "Cohort info":"Company names of 1 cohort[s]",
       "CVC data available":"Limited",
       "Goal":"",
-      "Areas of Interest":"The Bridge startups range from early stage to growth startups. They offer software solutions that are ready to commercialize and that fit one of five core themes:
-\n\n
-- Consumer Engagement\n
-- Consumer Retail\n
-- Supply Chain\n
-- Marketing Innovation\n
-- Health & Wellness. ",
+      "Areas of Interest":"The Bridge startups range from early stage to growth startups. They offer software solutions that are ready to commercialize and that fit one of five core themes:\n\n - Consumer Engagement\n - Consumer Retail\n - Supply Chain\n - Marketing Innovation\n - Health & Wellness. ",
       "Partner":"No",
       "Company HQ":"USA",
       "Accelerator locations":"Tel Aviv, Israel",
@@ -489,14 +468,7 @@ The types of teams we are looking for include:\n\n
       "Cohort info":"No",
       "CVC data available":"TBD",
       "Goal":"We are seeking up to 8 ambitious startup companies from across the globe with an innovative FinTech proposition.",
-      "Areas of Interest":"The types of ideas we are looking for, but not limited to:\n\n
-- Artificial Intelligence\n
-- Big data and analytics, where large amounts of complex data can be processed in a second\n
-- Banking infrastructure, workflow and operational management\n
-- Mobility and payments\n
-- Risk monitoring and management\n
-- Security\n
-- SME Banking Solution",
+      "Areas of Interest":"The types of ideas we are looking for, but not limited to:\n\n - Artificial Intelligence\n - Big data and analytics, where large amounts of complex data can be processed in a second\n - Banking infrastructure, workflow and operational management\n - Mobility and payments\n - Risk monitoring and management\n - Security\n - SME Banking Solution",
       "Partner":"Nest",
       "Company HQ":"Singapore",
       "Accelerator locations":"Hong Kong",
@@ -526,14 +498,7 @@ The types of teams we are looking for include:\n\n
       "Cohort info":"Company names of 1 cohort[s]",
       "CVC data available":"Yes",
       "Goal":"Therefore hub:raum manages your connection to one of the world’s leading integrated telecommunications companies. In areas in which your team excels, we let you focus; in areas in which you need help, we support. Just as it should be.",
-      "Areas of Interest":"- Internet of things\n
-- Cyber security\n
-- Health\n
-- Cloud based business solutions\n
-- Customer analytics & big data\n
-- Mobile payment & commerce\n
-- Tv, video & multi screen\n
-- Telecommunication & connectivity",
+      "Areas of Interest":"- Internet of things\n - Cyber security\n - Health\n - Cloud based business solutions\n - Customer analytics & big data\n - Mobile payment & commerce\n - Tv, video & multi screen\n - Telecommunication & connectivity",
       "Partner":"Betahaus",
       "Company HQ":"Germany",
       "Accelerator locations":"Krakow, Poland",
@@ -570,7 +535,9 @@ The types of teams we are looking for include:\n\n
       "Started":2015,
       "URL":"http://nextmediaaccelerator.io/",
       "Sources":[],
-      "Comment":"Not yet launched"
+      "Comment":"Not yet launched",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"DPD UK",
@@ -591,12 +558,7 @@ The types of teams we are looking for include:\n\n
       "Cohort info":"Company names of 1 cohort[s]",
       "CVC data available":"Parent not listed",
       "Goal":"The Last Mile is essential to today's shopping experience. It is also extremely challenging for delivery companies. Technology is crucial to navigating the challenge and DPD are leading the way with innovative services like, Predict, and Follow My Parcel. Now they're looking to partner with startups, giving them unparalleled access to their data sets and APIs, to enhance the Last Mile experience and push the science of delivery to new heights!",
-      "Areas of Interest":"Can you revolutionise the parcel delivery experience of DPD customers? If your business is focused on catapulting the courier delivery experience into the future then Last Mile Labs is perfect for you, no matter what stage your business is at or where you're based.
-\n\n
-- Doorstep smiles: Develop the world's best final mile delivery experience\n
-- Closely connected: Using the parcel receiver's data, develop an interactive interface that allows the DPD driver and receiver to communicate in real time\n
-- Operational efficiency: Using historic and current delivery data plus predictive patterns identify cost savings and efficiency opportunities within the DPD operation\n
-- Wild card: Any innovative product or solution that enhances the last mile delivery experience and which isn't covered in the other categories",
+      "Areas of Interest":"Can you revolutionise the parcel delivery experience of DPD customers? If your business is focused on catapulting the courier delivery experience into the future then Last Mile Labs is perfect for you, no matter what stage your business is at or where you're based.\n\n - Doorstep smiles: Develop the world's best final mile delivery experience\n - Closely connected: Using the parcel receiver's data, develop an interactive interface that allows the DPD driver and receiver to communicate in real time\n - Operational efficiency: Using historic and current delivery data plus predictive patterns identify cost savings and efficiency opportunities within the DPD operation\n - Wild card: Any innovative product or solution that enhances the last mile delivery experience and which isn't covered in the other categories",
       "Partner":"Lmarks",
       "Company HQ":"UK",
       "Accelerator locations":"London, UK",
@@ -633,7 +595,9 @@ The types of teams we are looking for include:\n\n
       "Started":2014,
       "URL":"http://eon-agile.com/",
       "Sources":[],
-      "Comment":"Former hybrid one or at least internal one"
+      "Comment":"Former hybrid / internal Accelerator approach.",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"Ernst & Young",
@@ -654,10 +618,7 @@ The types of teams we are looking for include:\n\n
       "Cohort info":"Company names of 1 cohort[s]",
       "CVC data available":"TBD",
       "Goal":"The EY Startup Challenge brings together EY's leading clients with high-growth startups to explore solutions to pressing business problems. The objective is to collaboratively explore and validate different applications of strong business value for the startups’ technologies that address a clear business problem.",
-      "Areas of Interest":"As people, activities and objects become increasingly connected, data is now the currency of business. The scope to derive insight from data, to gain foresight, and enable better decision-making, has exponentially increased:
-\n\n
-- Insights into who your customers are, what they want and why, is a rapidly-rising strategic imperative - but given the sheer wealth of data now available, what is the potential for foresight into their evolving behaviours, demands and expectations?\n
-- Insights into who your suppliers are, and the unpredictable global environments in which the supply chain operates, is of increasing importance to businesses - so how could innovative technology provide greater visibility to help businesses avoid shocks and minimise risk?",
+      "Areas of Interest":"As people, activities and objects become increasingly connected, data is now the currency of business. The scope to derive insight from data, to gain foresight, and enable better decision-making, has exponentially increased:\n\n - Insights into who your customers are, what they want and why, is a rapidly-rising strategic imperative - but given the sheer wealth of data now available, what is the potential for foresight into their evolving behaviours, demands and expectations?\n - Insights into who your suppliers are, and the unpredictable global environments in which the supply chain operates, is of increasing importance to businesses - so how could innovative technology provide greater visibility to help businesses avoid shocks and minimise risk?",
       "Partner":"No",
       "Company HQ":"USA / London office",
       "Accelerator locations":"London, UK",
@@ -807,13 +768,7 @@ The types of teams we are looking for include:\n\n
       "Cohort info":"TechStars Portfolio + Company names of 2 cohort[s]",
       "CVC data available":"Yes, parent",
       "Goal":"",
-      "Areas of Interest":"Any technology-powered startup looking to change education for the better. Examples:\n\n
-- Education-related apps (iOS, Android, Windows)\n
-- Education-platforms (mobile and/or social learning, online instruction, collaboration tools)\n
-- Curriculum & learning (adaptive/personalized learning, core and supplemental curriculum, online learning systems)\n
-- Instruction (test prep, tutoring, training, courses, online courses)\n
-- Tools for students & teachers (student information systems, learning management systems, student recruitment & job placement systems)\n
-- Other Cool Stuff (Assessment systems, credentialing systems, games, content)",
+      "Areas of Interest":"Any technology-powered startup looking to change education for the better. Examples:\n\n - Education-related apps (iOS, Android, Windows)\n - Education-platforms (mobile and/or social learning, online instruction, collaboration tools)\n - Curriculum & learning (adaptive/personalized learning, core and supplemental curriculum, online learning systems)\n - Instruction (test prep, tutoring, training, courses, online courses)\n - Tools for students & teachers (student information systems, learning management systems, student recruitment & job placement systems)\n - Other Cool Stuff (Assessment systems, credentialing systems, games, content)",
       "Partner":"Techstars",
       "Company HQ":"USA",
       "Accelerator locations":"New York, USA",
@@ -843,20 +798,16 @@ The types of teams we are looking for include:\n\n
       "Cohort info":"No",
       "CVC data available":"TBD",
       "Goal":"LEAP will enable Mast Global to explore new technology solutions while enabling entrepreneurs to gain valuable access to domain expertise and learning",
-      "Areas of Interest":"The company said it is keen to look at startups working in the areas of 
-\n\n
-- Mobility\n
-- Big data\n
-- Omnichannel marketing\n
-- Supply chain\n
-- Security",
+      "Areas of Interest":"The company said it is keen to look at startups working in the areas of \n\n - Mobility\n - Big data\n - Omnichannel marketing\n - Supply chain\n - Security",
       "Partner":"Kyron",
       "Company HQ":"USA",
       "Accelerator locations":", India",
       "Started":2015,
       "URL":"",
       "Sources":["http://economictimes.indiatimes.com/small-biz/startups/mast-global-launching-corporate-accelerator-to-tap-into-its-innovation-ecosystem/articleshow/47494572.cms"],
-      "Comment":"Subsidary Mast Global (logistic arm) is owning it"
+      "Comment":"Subsidary of Mast Global (logistic arm) is owning it",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"La Poste",
@@ -877,9 +828,7 @@ The types of teams we are looking for include:\n\n
       "Cohort info":"Company names of 1 cohort[s]",
       "CVC data available":"TBD",
       "Goal":"",
-      "Areas of Interest":"- Commerce / E-Commerce\n
-- Internet of Things\n
-- Digital trust",
+      "Areas of Interest":"- Commerce / E-Commerce\n - Internet of Things\n - Digital trust",
       "Partner":"No",
       "Company HQ":"France",
       "Accelerator locations":"Paris, France",
@@ -909,43 +858,7 @@ The types of teams we are looking for include:\n\n
       "Cohort info":"Company names of 1 cohort[s]",
       "CVC data available":"Yes",
       "Goal":"We have one main objective, partnering with each startup to grow their businesses faster than they could by themselves. Our only measure of success is your success.",
-      "Areas of Interest":"- Advertising\n
-- B2B/Enterprise\n
-- Banking & Accounting\n
-- Computer Security\n
-- Consulting \n
-- Consumer\n
-- Data & Analytics\n
-- E-commerce\n
-- Finance\n
-- Logistics/Supply Chain\n
-- Marketing\n
-- Retail\n
-- Telecommunications\n
-- Transportation\n
-- Applied Behavior Analysis\n
-- Banking\n
-- Banking Domain\n
-- Biometrics\n
-- Commerce\n
-- Consumer Insights\n
-- Customer Retention\n
-- Customer Service\n
-- Data Analysis\n
-- Enterprise Software\n
-- Logistics\n
-- Logistics Management\n
-- Loyalty Marketing\n
-- Loyalty Programs\n
-- Merchant Services\n
-- Payment Gateways\n
-- Payment Systems\n
-- Payments\n
-- Payroll Processing\n
-- Retail Banking\n
-- Retail Management\n
-- Security\n
-- Security Management",
+      "Areas of Interest":"- Advertising\n - B2B/Enterprise\n - Banking & Accounting\n - Computer Security\n - Consulting \n - Consumer\n - Data & Analytics\n - E-commerce\n - Finance\n - Logistics/Supply Chain\n - Marketing\n - Retail\n - Telecommunications\n - Transportation\n - Applied Behavior Analysis\n - Banking\n - Banking Domain\n - Biometrics\n - Commerce\n - Consumer Insights\n - Customer Retention\n - Customer Service\n - Data Analysis\n - Enterprise Software\n - Logistics\n - Logistics Management\n - Loyalty Marketing\n - Loyalty Programs\n - Merchant Services\n - Payment Gateways\n - Payment Systems\n - Payments\n - Payroll Processing\n - Retail Banking\n - Retail Management\n - Security\n - Security Management",
       "Partner":"No",
       "Company HQ":"USA",
       "Accelerator locations":"Dublin, Ireland",
@@ -1005,21 +918,16 @@ The types of teams we are looking for include:\n\n
       "Cohort info":"Company names of several cohort[s]",
       "CVC data available":"Yes",
       "Goal":"",
-      "Areas of Interest":"The Accelerator Program is aimed at helping tech startups doing big things in Cloud, Internet and Mobile. We are ready to consider any application that can leverage the Cloud, such as:\n\n
-- E-Commerce\n
-- Mobile (any O/S)\n
-- Media\n
-- Social Applications\n
-- Gaming\n
-- Education & Healthcare\n
-- Others: Enterprise, Telecom, Big Data",
+      "Areas of Interest":"The Accelerator Program is aimed at helping tech startups doing big things in Cloud, Internet and Mobile. We are ready to consider any application that can leverage the Cloud, such as:\n\n - E-Commerce\n - Mobile (any O/S)\n - Media\n - Social Applications\n - Gaming\n - Education & Healthcare\n - Others: Enterprise, Telecom, Big Data",
       "Partner":"No",
       "Company HQ":"USA",
       "Accelerator locations":"Bangalore, India / Beijing, China / Berlin, Germany / London, UK / Paris, France / Seattle, USA / Tel Aviv, Israel",
       "Started":"",
       "URL":"https://www.microsoftventures.com/locations/bangalore/faq",
       "Sources":[],
-      "Comment":"Likely the successor of the other Microsoft program"
+      "Comment":"Likely the successor of the other Microsoft program.",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"Microsoft Corp",
@@ -1047,7 +955,9 @@ The types of teams we are looking for include:\n\n
       "Started":2012,
       "URL":"http://www.microsoftaccelerator.com/",
       "Sources":["http://techcrunch.com/2014/08/25/corporate-accelerators-are-an-oxymoron/"],
-      "Comment":"Still alive? No information about current applications"
+      "Comment":"Still alive? No information about current applications",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"Modern Times Group",
@@ -1068,10 +978,7 @@ The types of teams we are looking for include:\n\n
       "Cohort info":"Company names of 1 cohort[s]",
       "CVC data available":"TBD",
       "Goal":"MTGx MediaFactory is a startup partnership program targeted to early stage ventures within the media industry, focused on online video and music.",
-      "Areas of Interest":"All applicants should have a combination of video, social, mobile and monetization\n\n
-- eSport\n
-- Social causes\n
-- Monetize, discover, deliver video entertainment",
+      "Areas of Interest":"All applicants should have a combination of video, social, mobile and monetization\n\n - eSport\n - Social causes\n - Monetize, discover, deliver video entertainment",
       "Partner":"No",
       "Company HQ":"Sweden",
       "Accelerator locations":"Stockholm, Sweden",
@@ -1101,20 +1008,16 @@ The types of teams we are looking for include:\n\n
       "Cohort info":"Company names of 1 cohort[s]",
       "CVC data available":"TBD",
       "Goal":"Pilots will focus on driving impulse purchases and mobile-at-retail consumer experiences, with additional pilots in the important areas of social TV and SoLoMo (social/location/mobile).",
-      "Areas of Interest":"Mondelēz International is looking for entrepreneurs who are developing the technology platforms and mobile solutions that are solving some of their most pressing challenges at retail. From the consumer experience in aisle to the payment process at checkout, we’re seeking startups that are innovating in mobile to re-imagine how consumers engage with and purchase consumer package goods brands at retail. Some examples of technologies transforming this space include:\n\n
-- Proximity, beacons and alerts (WiFi, BTLE, NFC, RFID)\n
-- Mobile payments and checkout\n
-- Dynamic shopping lists and social shopping\n
-- Loyalty, rewards and gamification\n
-- Augmented reality and interactive displays\n
-- Inventory auditing and optimisation",
+      "Areas of Interest":"Mondelēz International is looking for entrepreneurs who are developing the technology platforms and mobile solutions that are solving some of their most pressing challenges at retail. From the consumer experience in aisle to the payment process at checkout, we’re seeking startups that are innovating in mobile to re-imagine how consumers engage with and purchase consumer package goods brands at retail. Some examples of technologies transforming this space include:\n\n - Proximity, beacons and alerts (WiFi, BTLE, NFC, RFID)\n - Mobile payments and checkout\n - Dynamic shopping lists and social shopping\n - Loyalty, rewards and gamification\n - Augmented reality and interactive displays\n - Inventory auditing and optimisation",
       "Partner":"No",
       "Company HQ":"USA",
       "Accelerator locations":"Chicago, USA",
       "Started":2012,
       "URL":"https://www.mobilefutures.com/",
       "Sources":[],
-      "Comment":"It's a very different approach. Where established startups get the opportunity to work with the company. Not sure if it really helps the startup?"
+      "Comment":"",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"Nike Inc Class B",
@@ -1142,7 +1045,9 @@ The types of teams we are looking for include:\n\n
       "Started":2013,
       "URL":"http://www.nikefuellab.com/",
       "Sources":["http://www.techstars.com/program/locations/"],
-      "Comment":"Still alive? The 2013 edition was called "
+      "Comment":"Still alive?",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"Orange SA",
@@ -1163,29 +1068,7 @@ The types of teams we are looking for include:\n\n
       "Cohort info":"Company names of 3 cohort[s]",
       "CVC data available":"Yes",
       "Goal":"We're a 3-month accelerator program searching for startups with existing products who are looking for growth and distribution opportunities",
-      "Areas of Interest":"- AdTech\n
-- Advanced Materials\n
-- Aerospace\n
-- Big Data\n
-- Bitcoin / Cryptocurrency\n
-- Cloud\n
-- Connected Objects\n
-- Connected Vehicle\n
-- Consumer Internet\n
-- Ecommerce & Mobile\n
-- Commerce\n
-- Emerging Markets\n
-- Energy\n
-- Enterprise\n
-- Healthcare\n
-- Human Resources\n
-- Media & Entertainment\n
-- Mobile\n
-- Payment / Financial Services\n
-- Retail Technology\n
-- Robotics / Drones / Automous Vehicles\n
-- Security\n
-- Virtual / Augmented Reality",
+      "Areas of Interest":"- AdTech\n - Advanced Materials\n - Aerospace\n - Big Data\n - Bitcoin / Cryptocurrency\n - Cloud\n - Connected Objects\n - Connected Vehicle\n - Consumer Internet\n - Ecommerce & Mobile\n - Commerce\n - Emerging Markets\n - Energy\n - Enterprise\n - Healthcare\n - Human Resources\n - Media & Entertainment\n - Mobile\n - Payment / Financial Services\n - Retail Technology\n - Robotics / Drones / Automous Vehicles\n - Security\n - Virtual / Augmented Reality",
       "Partner":"No",
       "Company HQ":"France",
       "Accelerator locations":"France, Poland, Asia, Ivory Coast, Israel, USA",
@@ -1222,7 +1105,9 @@ The types of teams we are looking for include:\n\n
       "Started":2013,
       "URL":"http://highway1.io/",
       "Sources":[],
-      "Comment":"Very interesting as highly integrated approach"
+      "Comment":"",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"Pearson plc",
@@ -1243,17 +1128,7 @@ The types of teams we are looking for include:\n\n
       "Cohort info":"Company names of 2 cohort[s]",
       "CVC data available":"Yes",
       "Goal":"We identify the most promising education startup companies that share Pearson’s commitment to improving people’s lives through learning. Through Pearson Catalyst for Education, we match startups with Pearson brands to deliver pilot programs.",
-      "Areas of Interest":"Current challenges:\n\n
-- Mobile Math Input\n
-- Indexing Training and Open Jobs\n
-- Data Visualization Solution\n
-- English Language Learning Game\n
-- Performance Based Assessment\n
-- Critical Reading\n
-- 3D Visualization for Developmental Psychology\n
-- Teaching Computer Science in Schools\n
-- Learning Outcomes Rubric & Data platform\n
-- Enabling Data Driven Sales (Matching Pearson’s products to customers)",
+      "Areas of Interest":"Current challenges:\n\n - Mobile Math Input\n - Indexing Training and Open Jobs\n - Data Visualization Solution\n - English Language Learning Game\n - Performance Based Assessment\n - Critical Reading\n - 3D Visualization for Developmental Psychology\n - Teaching Computer Science in Schools\n - Learning Outcomes Rubric & Data platform\n - Enabling Data Driven Sales (Matching Pearson’s products to customers)",
       "Partner":"No",
       "Company HQ":"UK",
       "Accelerator locations":"Remote",
@@ -1283,14 +1158,7 @@ The types of teams we are looking for include:\n\n
       "Cohort info":"Company names of 1 cohort[s]",
       "CVC data available":"TBD",
       "Goal":"This program is another step towards innovation by leveraging technology companions and partnerships with an exciting bunch of young entrepreneurs and companies.",
-      "Areas of Interest":"- Location based platforms (Services/advertising, analytics)\n
-- Spatial enabled platforms (Analytics, enterprise apps, GIS enabled systems, Navigation & other spatial analysis use cases)\n
-- Mobile & Big Data Analytics\n
-- E-Commerce Management Systems (Horizontal platforms in targeting/retargeting, analytics, data integration, shipping & delivery management)\n
-- Data Integration & Master\n
-- Data Management\n
-- Mobile commerce & Proximity payments\n
-- M2M Platforms & Services",
+      "Areas of Interest":"- Location based platforms (Services/advertising, analytics)\n - Spatial enabled platforms (Analytics, enterprise apps, GIS enabled systems, Navigation & other spatial analysis use cases)\n - Mobile & Big Data Analytics\n - E-Commerce Management Systems (Horizontal platforms in targeting/retargeting, analytics, data integration, shipping & delivery management)\n - Data Integration & Master\n - Data Management\n - Mobile commerce & Proximity payments\n - M2M Platforms & Services",
       "Partner":"No",
       "Company HQ":"USA",
       "Accelerator locations":"Noida, India",
@@ -1320,17 +1188,7 @@ The types of teams we are looking for include:\n\n
       "Cohort info":"Company names of 4 cohort[s]",
       "CVC data available":"Yes",
       "Goal":"We would like to support entrepreneurs at an early stage and offer founders a unique opportunity to speed up the pace of development of promising, young companies and support the teams to find synergies within the wide-reaching network of ProSiebenSat.1 Media Group. The explicit objective of the Accelerator program is also to strengthen Germany as a location for young entrepreneurs and establish structures which will promote innovative potential in the future.",
-      "Areas of Interest":"We invest across all industries with focus on B2C businesses. Typical industries are: 
-\n\n
-- Media\n
-- Entertainment\n
-- E-commerce\n
-- Internet of things\n
-- Smart home\n
-- Health\n
-- Fin-tech\n
-- Ad-tech\n
-- Online video space.",
+      "Areas of Interest":"We invest across all industries with focus on B2C businesses. Typical industries are: \n\n - Media\n - Entertainment\n - E-commerce\n - Internet of things\n - Smart home\n - Health\n - Fin-tech\n - Ad-tech\n - Online video space.",
       "Partner":"No",
       "Company HQ":"Germany",
       "Accelerator locations":"Munich, Germany / Berlin, Germany",
@@ -1397,10 +1255,12 @@ The types of teams we are looking for include:\n\n
       "Started":2013,
       "URL":"http://samsungaccelerator.com/",
       "Sources":["http://techcrunch.com/2014/08/25/corporate-accelerators-are-an-oxymoron/"],
-      "Comment":"Is that actually a real accelerator?"
+      "Comment":"Is this actually a real Corporate Accelerator or closer to an Incubator?",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
-      "Company":"Singapore Press Holdings ",
+      "Company":"Singapore Press Holdings",
       "Name":"SPH Plug and Play",
       "Index":"No",
       "NAICS":"Newspaper Publishers",
@@ -1418,25 +1278,16 @@ The types of teams we are looking for include:\n\n
       "Cohort info":"No",
       "CVC data available":"TBD",
       "Goal":"This collaboration is aimed at building a strong pipeline of high growth, innovation-driven tech startups to address challenges of the media industry.",
-      "Areas of Interest":"- Media business\n
-- Audience analysis and measurement\n
-- Content marketing\n
-- News & content distribution\n
-- Customer empowerment and loyalty\n
-- Marketplaces & E-commerce\n
-- Media technologies\n
-- Print advertising enhancers\n
-- Digital ad technologies\n
-- Outdoor advertising platforms\n
-- Gamification and app development\n
-- Content storage and delivery optimization",
+      "Areas of Interest":"- Media business\n - Audience analysis and measurement\n - Content marketing\n - News & content distribution\n - Customer empowerment and loyalty\n - Marketplaces & E-commerce\n - Media technologies\n - Print advertising enhancers\n - Digital ad technologies\n - Outdoor advertising platforms\n - Gamification and app development\n - Content storage and delivery optimization",
       "Partner":"PlugAndPlay",
       "Company HQ":"Singapore",
       "Accelerator locations":"Singapore",
       "Started":2015,
       "URL":"http://sphplugandplay.sph.com.sg/",
       "Sources":[],
-      "Comment":"No cohort launched yet"
+      "Comment":"No cohort launched yet",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"Sprint",
@@ -1547,28 +1398,16 @@ The types of teams we are looking for include:\n\n
       "Cohort info":"No",
       "CVC data available":"TBD",
       "Goal":"We help turn ideas into market-ready companies, supporting startups directly during the creation and development stages. To do this we work daily to foster a community of professionals and partners in the Italian innovation ecosystem.  During the program the teams will also begin talking with Telecom Italia’s business unit in order to initiate early collaboration that could eventually turn into a contract with the company.",
-      "Areas of Interest":"The Call for Ideas is aimed at startups in the digital field such as:
-\n\n
-- Mobile\n
-- Smart city\n
-- Smart home\n
-- Automotive\n
-- Gaming\n
-- Health & wellness\n
-- Data analytics\n
-- Green solutions\n
-- Social impact\n
-- Digital payments\n
-- IT security\n
-- Social networking\n
-- Wearables.",
+      "Areas of Interest":"The Call for Ideas is aimed at startups in the digital field such as:\n\n - Mobile\n - Smart city\n - Smart home\n - Automotive\n - Gaming\n - Health & wellness\n - Data analytics\n - Green solutions\n - Social impact\n - Digital payments\n - IT security\n - Social networking\n - Wearables.",
       "Partner":"No",
       "Company HQ":"Italy",
       "Accelerator locations":"Catania, Italy / Rome, Italy / Milano, Italy / Bologna, Italy",
       "Started":2013,
       "URL":"http://www.wcap.tim.it",
       "Sources":[],
-      "Comment":"Start of initiative already in 2009 (from competition to accelerator), Startups are becoming part of TIM's procurement list"
+      "Comment":"Start of initiative already in 2009 (from competition to accelerator), Startups are becoming part of TIM's procurement list",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"Telefonica SA",
@@ -1589,11 +1428,7 @@ The types of teams we are looking for include:\n\n
       "Cohort info":"Company names of 4 cohort[s]",
       "CVC data available":"Yes",
       "Goal":"The manager of the Wayra Academy in London explained their business strategy, 'It's not just about the ideas. We are using Wayra as a way of acquiring great talent for Telefónica.' Also: 'We know the next digital revolution can emerge from anywhere, in technology nobody has the final word. If you have a business or an idea that uses technology to solve the problems of the future, Wayra is your place to make it grow.'",
-      "Areas of Interest":"If you have a business or an idea that uses technology to solve the problems of the future, wayra is your place to make it grow.
-\n\n
-- Really innovative business proposals and as disruptive as possible. \n
-- Scalable initiatives having high growth potential and a strong global focus\n
-- Products with a fast commercial time-to-market deployment",
+      "Areas of Interest":"If you have a business or an idea that uses technology to solve the problems of the future, wayra is your place to make it grow.\n\n - Really innovative business proposals and as disruptive as possible. \n - Scalable initiatives having high growth potential and a strong global focus\n - Products with a fast commercial time-to-market deployment",
       "Partner":"No",
       "Company HQ":"Spain",
       "Accelerator locations":"Argentinia, Brazil, Chile, Colombia, Mexico, Peru, Venezuela, Central East Europe, Germany, Ireland, Spain, UK",
@@ -1623,17 +1458,16 @@ The types of teams we are looking for include:\n\n
       "Cohort info":"Company names of 2 cohort[s]",
       "CVC data available":"TBD",
       "Goal":"",
-      "Areas of Interest":"- Public transportation\n
-- Retail\n
-- Hospitality\n
-- Manufacturing and lifestyle solutions on the cloud",
+      "Areas of Interest":"- Public transportation\n - Retail\n - Hospitality\n - Manufacturing and lifestyle solutions on the cloud",
       "Partner":"Startup Malaysia",
       "Company HQ":"Malaysia",
       "Accelerator locations":"Kuala Lumpur, Malaysia",
       "Started":2012,
       "URL":"http://www.startupmalaysia.org/dmcapll/",
       "Sources":[],
-      "Comment":"Might be closer to non-profit, not regular (2 sessions so far, maybe closed now?), People can keep their jobs and only work 30h/month on the startup"
+      "Comment":"Might be closer to non-profit, not regular (2 sessions so far, maybe closed now?), People can keep their regular job and only work 30h/month on their startup",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"Telenet Group Holding NV",
@@ -1654,17 +1488,7 @@ The types of teams we are looking for include:\n\n
       "Cohort info":"Company names of 1 cohort[s]",
       "CVC data available":"TBD",
       "Goal":"Telenet Idealabs is a vertical accelerator of 4-8 months that boosts tech and media ideas",
-      "Areas of Interest":"- Media and Entertainment\n
-- Video/Digital Home\n
-- E-commerce\n
-- Smart Cities\n
-- Advertising\n
-- Security\n
-- Social Innovations\n
-- M2M/Internet of Things\n
-- Network & Systems\n
-- Industrial Big Data\n
-- Apps and Games",
+      "Areas of Interest":"- Media and Entertainment\n - Video/Digital Home\n - E-commerce\n - Smart Cities\n - Advertising\n - Security\n - Social Innovations\n - M2M/Internet of Things\n - Network & Systems\n - Industrial Big Data\n - Apps and Games",
       "Partner":"Idealabs",
       "Company HQ":"Belgium",
       "Accelerator locations":"Antwerp, Belgium",
@@ -1724,36 +1548,16 @@ The types of teams we are looking for include:\n\n
       "Cohort info":"Company names of 3 cohort[s]",
       "CVC data available":"Yes",
       "Goal":"",
-      "Areas of Interest":"Media Business\n\n
-- Media Landscape and Overview\n
-- Market Sizing\n
-- Media Consumption\n
-- Media and Audience Measurement\n
-- Regulation Impacts on Media\n
-- Advertising in Media\n
-- Content and Ownership\n
-- International Distribution
-\n\n
-Media Technologies\n\n
-- Multi-Platform Development Technologies\n
-- Scaling Growth & Handling Competition\n
-- Search and Discovery of Content\n
-- Context Aware Solutions\n
-- Cross-Platform Video Technologies
-\n\n
-Future of Media\n\n
-- Current vs Future of Media\n
-- Shifting Value Chain\n
-- Future of Distribution\n
-- Future of Advertising\n
-- Disruptive Technologies",
+      "Areas of Interest":"Media Business\n\n - Media Landscape and Overview\n - Market Sizing\n - Media Consumption\n - Media and Audience Measurement\n - Regulation Impacts on Media\n - Advertising in Media\n - Content and Ownership\n - International Distribution\n\n Media Technologies\n\n - Multi-Platform Development Technologies\n - Scaling Growth & Handling Competition\n - Search and Discovery of Content\n - Context Aware Solutions\n - Cross-Platform Video Technologies\n\n Future of Media\n\n - Current vs Future of Media\n - Shifting Value Chain\n - Future of Distribution\n - Future of Advertising\n - Disruptive Technologies",
       "Partner":"No",
       "Company HQ":"USA",
       "Accelerator locations":"Los Angeles, USA",
       "Started":2012,
       "URL":"http://www.mediacamp.com/about/",
       "Sources":["https://www.innovationleader.com/tracking-the-corporate-supported-startup-accelerators/"],
-      "Comment":"Formerly together with Turner Broadcasting which left in Dec 2014: http://techcrunch.com/2014/12/23/turner-media-camp-shutdown/"
+      "Comment":"Formerly together with Turner Broadcasting which left in Dec 2014: http://techcrunch.com/2014/12/23/turner-media-camp-shutdown/",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"Travelport",
@@ -1774,11 +1578,7 @@ Future of Media\n\n
       "Cohort info":"No",
       "CVC data available":"TBD",
       "Goal":"We’re serious about redefining travel commerce, and we know there are some highly talented developers and travel start-ups out there who are also looking to have a positive impact on the travel commerce landscape.",
-      "Areas of Interest":"- Travel\n
-- Tourism\n
-- Technology\n
-- Software\n
-- Mobile",
+      "Areas of Interest":"- Travel\n - Tourism\n - Technology\n - Software\n - Mobile",
       "Partner":"No",
       "Company HQ":"USA",
       "Accelerator locations":"Denver, USA",
@@ -1808,18 +1608,16 @@ Future of Media\n\n
       "Cohort info":"No",
       "CVC data available":"TBD",
       "Goal":"",
-      "Areas of Interest":"- Travel\n
-- E-commerce\n
-- Mobile\n
-- Fintech\n
-- Others",
+      "Areas of Interest":"- Travel\n - E-commerce\n - Mobile\n - Fintech\n - Others",
       "Partner":"No",
       "Company HQ":"Malaysia",
       "Accelerator locations":"Kuala Lumpur, Malaysia",
       "Started":2015,
       "URL":"http://thetunelabs.com/incubator/",
       "Sources":["https://www.techinasia.com/key-people-airasia-launch-tune-labs-startup-accelerator-southeast-asia/"],
-      "Comment":"Personally funded by the management, but could be by the company later. Have also a program called Accelerator that isn't an Accelerator"
+      "Comment":"Personally funded by the management, but potentially by the company in the future. Also have a program called Accelerator that is closer to an Incubator.",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"Unilever plc",
@@ -1840,19 +1638,16 @@ Future of Media\n\n
       "Cohort info":"No",
       "CVC data available":"Yes",
       "Goal":"",
-      "Areas of Interest":"- Digital marketing\n
-- Mobile\n
-- Content\n
-- E-commerce\n
-- Analytics\n
-- Data management",
+      "Areas of Interest":"- Digital marketing\n - Mobile\n - Content\n - E-commerce\n - Analytics\n - Data management",
       "Partner":"No",
       "Company HQ":"Netherlands and UK",
       "Accelerator locations":"",
       "Started":2013,
       "URL":"https://foundry.unilever.com/welcome/",
       "Sources":["http://www.f6s.com/programs?filter=1&types[1]=accelerator&amount_default=0;5&fp_amount=0;5&equity_default=0;50&fp_equity=0;50"],
-      "Comment":"Started as Go Global"
+      "Comment":"Started as Go Global",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"Volkswagen AG",
@@ -1873,28 +1668,16 @@ Future of Media\n\n
       "Cohort info":"No",
       "CVC data available":"Yes",
       "Goal":"Volkswagen Group of America Electronics Research Laboratory (ERL) has teamed up with Plug and Play to accelerate and collaborate with startups to transfer technology from many industries into the automotive domain.",
-      "Areas of Interest":"- Speech Recognition\n
-- Seamless connectivity solutions\n
-- Infotainment applications (Navigation, Media, etc.)\n
-- Driver Assistance/Drive distraction management\n
-- Sensor technologies\n
-- Data Mining and analytics\n
-- Social media/Recommendation Engines\n
-- Gamification\n
-- Augmented Reality / digital reality\n
-- Mobile device integration\n
-- Mobility/Parking applications/detection\n
-- Location based services\n
-- Discovery - where to go? What to do? Etc.\n
-- Advanced visualization\n
-- Virtual intelligence and personalization",
+      "Areas of Interest":"- Speech Recognition\n - Seamless connectivity solutions\n - Infotainment applications (Navigation, Media, etc.)\n - Driver Assistance/Drive distraction management\n - Sensor technologies\n - Data Mining and analytics\n - Social media/Recommendation Engines\n - Gamification\n - Augmented Reality / digital reality\n - Mobile device integration\n - Mobility/Parking applications/detection\n - Location based services\n - Discovery - where to go? What to do? Etc.\n - Advanced visualization\n - Virtual intelligence and personalization",
       "Partner":"PlugAndPlay",
       "Company HQ":"Germany",
       "Accelerator locations":"Belmont, USA",
       "Started":2012,
       "URL":"http://www.plugandplaytechcenter.com/programs/volkswagen-erl-technology-accelerator",
       "Sources":["http://techcrunch.com/2014/08/25/corporate-accelerators-are-an-oxymoron/"],
-      "Comment":"A new "
+      "Comment":"",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"Walt Disney Co",
@@ -1945,10 +1728,7 @@ Future of Media\n\n
       "Cohort info":"No",
       "CVC data available":"Yes",
       "Goal":"",
-      "Areas of Interest":"Solutions for:
-\n\n
-- Financial institutions\n
-- Enterprise customers",
+      "Areas of Interest":"Solutions for:\n\n - Financial institutions\n - Enterprise customers",
       "Partner":"No",
       "Company HQ":"USA",
       "Accelerator locations":"",
@@ -1985,7 +1765,9 @@ Future of Media\n\n
       "Started":2014,
       "URL":"https://www.f6s.com/yahooadtechprogram1",
       "Sources":[],
-      "Comment":"No dedicated homepage"
+      "Comment":"No dedicated homepage",
+      "Created": "2015-06-17 09:00:00",
+      "Modified": "2015-06-17 09:00:00"
    },
    {
       "Company":"Yandex",
@@ -2006,9 +1788,7 @@ Future of Media\n\n
       "Cohort info":"Company names of 4 cohort[s]",
       "CVC data available":"Yes",
       "Goal":"",
-      "Areas of Interest":"- Mass-scalable solutions\n
-- B2C (no B2B!)\n
-- Technology solutions",
+      "Areas of Interest":"- Mass-scalable solutions\n - B2C (no B2B!)\n - Technology solutions",
       "Partner":"No",
       "Company HQ":"Russia",
       "Accelerator locations":"Moscow, Russia",
@@ -2038,8 +1818,7 @@ Future of Media\n\n
       "Cohort info":"Company names of 1 cohort[s]",
       "CVC data available":"TBD",
       "Goal":"We are looking for startups from Finland and abroad that have an innovative media service or technology solution.",
-      "Areas of Interest":"- Media services (Education, Entertainment, Gaming, Media, Crowdsourcing, Journalism, Learning,Radio, TV production, UGC)\n
-- Technology (Data & Analytics, Mobile Applications, Analytics, Archiving, Mobile, Software, Software Development)",
+      "Areas of Interest":"- Media services (Education, Entertainment, Gaming, Media, Crowdsourcing, Journalism, Learning,Radio, TV production, UGC)\n - Technology (Data & Analytics, Mobile Applications, Analytics, Archiving, Mobile, Software, Software Development)",
       "Partner":"Nestholma",
       "Company HQ":"Finland",
       "Accelerator locations":"Helsinki, Finland",
