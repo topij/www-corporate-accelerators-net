@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Database of Corporate Accelerators
-shorttitle: Database
+title: Full Archive of Corporate Accelerators
+shorttitle: Archive
 fullwidth: true
+notopnav: true
 ---
 {% assign activePrograms = 0 %}
 {% for accelerator in site.data.Accelerators %}
@@ -10,7 +11,7 @@ fullwidth: true
     {% capture activePrograms %}{{ activePrograms | plus:1 }}{% endcapture %}
   {% endif %}
 {% endfor %}
-<p>Below you'll find a database of {{ activePrograms }} active Corporate Accelerator programs (<a href="/2015/06/15/what-is-a-corporate-accelerator.html">What's that?</a>) around the world. We also have a full list of all {{ site.data.Accelerators.size }} <a href="archive.html">active and stopped programs</a> available. We aim to keep this data as <a href="/update.html">up-to-date</a> as possible. Please <a href="/update.html">help us</a> if you come across new programs!</p>
+<p>Below you'll find a full archive of all {{ site.data.Accelerators.size }} Corporate Accelerators that we've ever come across. There is also a list that only shows the {{ activePrograms }} <a href="index.html">active programs</a> available. We aim to keep this data as <a href="/update.html">up-to-date</a> as possible. Please <a href="/update.html">help us</a> if you come across new programs!</p>
 
 <table id="ca_database" role="grid" class="display">
   <thead>
@@ -25,7 +26,6 @@ fullwidth: true
   </thead>
   <tbody>
     {% for accelerator in site.data.Accelerators %}
-      {% if accelerator['Status'] == "Active" or accelerator['Status'] == "Unclear" %}
         <tr>
           <td class=""><a href="{{ accelerator.Company | acceleratorurl: accelerator.Name }}">{{ accelerator.Company | truncate: 25 }}</a></td>
           <td class="">{{ accelerator.Name | truncate: 25 }}</td>
@@ -34,7 +34,6 @@ fullwidth: true
           <td class="dt-center tab-hide-if-no-space"><a href="{{ accelerator.URL }}">Website</td>
           <td class="dt-center tab-hide-if-no-space"><a href="{{ accelerator.Company | acceleratorurl: accelerator.Name }}">Details</a></td>
         </tr>
-      {% endif %}
     {% endfor %}
   </tbody>
 </table>

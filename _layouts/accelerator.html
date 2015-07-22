@@ -16,6 +16,10 @@ Website: <a href="{{ page.accelerator['URL'] }}">{{ page.accelerator['Name'] }}<
 <table role="grid" class="accelerator-data">
   <tbody>
       <tr>
+        <td>Status</td>
+        <td>{{ page.accelerator['Status'] | noinfo }}{% if page.accelerator['Status'] != "Active" and page.accelerator['Last class'] != "" %} (Last cohort: {{ page.accelerator['Last class']}}){% endif %}</td>
+      </tr>
+      <tr>
         <td>Locations</td>
         <td>{{ page.accelerator['Accelerator locations'] | noinfo }}</td>
       </tr>
